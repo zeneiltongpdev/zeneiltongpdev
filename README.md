@@ -1,5 +1,5 @@
-## Bem-vindo(a) ao perfil do ✞Ȥɘɳɘʅ✞ 😁
-# Discord: ! ✞Ȥɘɳɘʅ✞#2269
+# Bem-vindo(a) ao perfil do ✞Ȥɘɳɘʅ✞ 😁
+## Discord: ! ✞Ȥɘɳɘʅ✞#2269
 
  <div>
    <a href="https://github.com/Zeneilton">
