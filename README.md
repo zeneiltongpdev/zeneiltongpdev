@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao perfil do ✞Ȥɘɳɘʅ✞ 😁
+# Welcome to the Profile of the ✞Ȥɘɳɘʅ✞ 😁
 ## Discord: ! ✞Ȥɘɳɘʅ✞#2269
 
  <div>
