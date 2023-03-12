@@ -22,13 +22,13 @@
   <img height="30" src="https://img.shields.io/badge/html%20-%23DD0031.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img height="30" src="https://img.shields.io/badge/nodejs%20-%236da55f.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<!--<img height="30" src="https://img.shields.io/badge/nodejs%20-%236da55f.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/reactjs%20-%2314354c.svg?&style=for-the-badge&logo=react&logoColor=whit"/>
-<img height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> -->
 </p>
 <br>
  
-  ### Server Owner of Left 4 Dead 2 - Nation Zombies Follow us on our social networks below.
+ <h2><b>Server Owner of Left 4 Dead 2 - Nation Zombies Follow us on our social networks below.</b></h2>
  
 <div> 
    <a href="https://discord.gg/DnuFq97GQb" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
