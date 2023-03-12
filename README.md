@@ -1,5 +1,5 @@
 <h1 align="left"><b>Welcome to the Profile of the ✞Ȥɘɳɘʅ✞ 😁</h1></b>
-## Discord: ! ✞Ȥɘɳɘʅ✞#2269
+<h2 align="center"><b><a href="https://github.com/Zeneilton">Discord: ! ✞Ȥɘɳɘʅ✞#2269</a></h2></b>
 
  <div align="center">
    <a href="https://github.com/Zeneilton">
