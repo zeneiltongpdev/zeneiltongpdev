@@ -18,11 +18,10 @@
 <p align="left">
   <img height="30" src="https://img.shields.io/badge/html%20-%23DD0031.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img height="30" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=sass&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img height="30" src="https://img.shields.io/badge/nodejs%20-%236da55f.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/reactjs%20-%2314354c.svg?&style=for-the-badge&logo=react&logoColor=whit"/>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 <br>
  
