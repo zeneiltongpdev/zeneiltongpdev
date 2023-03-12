@@ -6,15 +6,27 @@
    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=zeneilton&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeneilton&layout=compact&langs_count=6&theme=tokyonight"/>
 
-</div>
+<!-- </div>
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-</div>
+</div> -->
+    
+<h3 align="left"><b>Linguagens:</h3></b>
+<p align="left">
+  <img height="30" src="https://img.shields.io/badge/html%20-%23DD0031.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=sass&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img height="30" src="https://img.shields.io/badge/nodejs%20-%236da55f.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/reactjs%20-%2314354c.svg?&style=for-the-badge&logo=react&logoColor=whit"/>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 
- <br>
+<img align="right" alt="Imagem" height="250" style="border-radius:8px;" src="image/renatapausini-avatar05.png">
+</p>
+<br>
  
   ### Server Owner of Left 4 Dead 2 - Nation Zombies Follow us on our social networks below.
  
