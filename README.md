@@ -1,5 +1,9 @@
 <h1 align="left"><b>Welcome to the Profile of the ✞Ȥɘɳɘʅ✞ 😁</h1></b>
-<h2 align="center"><b><a href="https://github.com/Zeneilton">Discord: ! ✞Ȥɘɳɘʅ✞#2269</a></h2></b>
+
+<div align="center">
+<h2 align="center"><b><a href="http://nationzombies.org/discord">Discord: ! ✞Ȥɘɳɘʅ✞#2269</a></h2></b>
+<h2 align="center"><b><a href="http://nationzombies.org/discord">Discord: ! ✞Ȥɘɳɘʅ✞#2269</a></h2></b>
+</div>
 
  <div align="center">
    <a href="https://github.com/Zeneilton">
