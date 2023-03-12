@@ -30,7 +30,7 @@
 <div> 
    <a href="https://discord.gg/DnuFq97GQb" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
-<a><iframe src="https://discordapp.com/widget?id=622102772417953792&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe></a>
+<!-- <a><iframe src="https://discordapp.com/widget?id=622102772417953792&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe></a> -->
 
  <a href="https://www.youtube.com/channel/UC--1f9e7e7nZkeuPhJWVcBQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  
