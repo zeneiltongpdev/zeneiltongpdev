@@ -17,7 +17,7 @@
   <img align="center" alt="PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
 </div> -->
     
-<h3 align="left"><b>Linguagens:</h3></b>
+<h3 align="left"><b>Languages:</h3></b>
 <p align="left">
 <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/html.png?raw=true"/>
 <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/css.png?raw=true"/>
