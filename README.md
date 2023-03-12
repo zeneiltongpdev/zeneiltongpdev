@@ -1,7 +1,7 @@
 <h1 align="left"><b>Welcome to the Profile of the ✞Ȥɘɳɘʅ✞ 😁</h1></b>
 
 <div align="center">
- <h2><a href="http://nationzombies.org/discord">Discord: ! ✞Ȥɘɳɘʅ✞#2269</a><p>||</p><a href="http://nationzombies.org/discord">Discord: ! ✞Ȥɘɳɘʅ✞#2269</a></h2>
+ <h2><a href="http://nationzombies.org/discord">Discord: ! ✞Ȥɘɳɘʅ✞#2269</a><a>||</a><a href="http://nationzombies.org/discord">Steam: ✞Ȥɘɳɘʅ✞</a></h2>
 </div>
 
  <div align="center">
