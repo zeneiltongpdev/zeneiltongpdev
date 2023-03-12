@@ -20,7 +20,7 @@
 <h3 align="left"><b>Linguagens:</h3></b>
 <p align="left">
   <img height="30" src="https://img.shields.io/badge/html%20-%23DD0031.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img height="30" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/css.png?raw=true"/>
 <img height="30" src="https://d1i4tvf70h7zdy.cloudfront.net/pacote-full-stack/techs/javascript.png"/>
 <!--<img height="30" src="https://img.shields.io/badge/nodejs%20-%236da55f.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/reactjs%20-%2314354c.svg?&style=for-the-badge&logo=react&logoColor=whit"/>
