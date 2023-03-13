@@ -8,7 +8,6 @@
    <a href="https://github.com/Zeneilton">
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zeneilton&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeneilton&layout=compact&langs_count=6&theme=tokyonight"/>
-    [![GitHub Streak](https://streak-stats.demolab.com?user=zeneilton&theme=tokyonight&fire=EB5454&border=FFFFFF)](https://git.io/streak-stats)
 </div>
 <!-- </div>
 <div style="display: inline_block">
@@ -44,4 +43,5 @@
   <a href="https://www.linkedin.com/in/zeneilton-granja/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ![Snake animation](https://github.com/zeneilton/zeneilton/blob/output/github-contribution-grid-snake.svg)
+![GitHub Streak](https://streak-stats.demolab.com?user=zeneilton&theme=tokyonight&fire=EB5454&border=FFFFFF)](https://git.io/streak-stats)
 </div>
