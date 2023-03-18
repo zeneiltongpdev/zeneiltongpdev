@@ -11,7 +11,7 @@
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeneilton&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
-<h3 align="left"><b>Languages:</b></h3>
+<h3 align="center"><b>Languages:</b></h3>
 <p align="left">
 <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/html.png?raw=true"/>
 <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/css.png?raw=true"/>
@@ -21,14 +21,14 @@
  
 <h2><b>Server Owner of Left 4 Dead 2 - Nation Zombies - Follow Us on our social networks below.</b></h2>
  
-<div> 
+<div align="left"> 
     <a href="https://discord.gg/DnuFq97GQb" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     <a href="https://www.youtube.com/channel/UC--1f9e7e7nZkeuPhJWVcBQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
  
 <div align="left">
-<h3>Contact Me!</h3>
-<a href="https://instagram.com/zenel.gp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "mailto:zeneiltongranja@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/zeneilton-granja/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<h3 align="center">Contact Me!</h3>
+<a href="https://www.linkedin.com/in/zeneilton-granja/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://instagram.com/zenel.gp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "mailto:zeneiltongranja@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
  
    ![Snake animation](https://github.com/zeneilton/zeneilton/blob/output/github-contribution-grid-snake.svg)
