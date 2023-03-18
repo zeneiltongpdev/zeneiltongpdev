@@ -1,7 +1,7 @@
 <h1 align="left"><b>Welcome to the Profile of the ✞Ȥɘɳɘʅ✞ 😁</h1></b>
 
 <div align="left">
- <a href="https://github.com/Zeneilton"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&width=435&lines=Hello+Guys!;My+name+is+Zeneilton;I'm+a+coding+veteran.;But+I'm+returning+to+code+in+2023!" alt="Typing SVG" /></a>
+ <a href="https://github.com/Zeneilton"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&width=435&lines=Hello+Guys!;My+name+is+Zeneilton;I'm+a+coding+veteran.;But+I'm+returning+to+code+in+2023!" alt="Typing SVG"></a>
  <h2><a href="http://nationzombies.org/discord">Discord: ✞Ȥɘɳɘʅ✞#2269</a><br><a href="https://steamcommunity.com/id/zenelgp/">Steam: ✞Ȥɘɳɘʅ✞</a></h2>
 </div>
 
@@ -13,19 +13,18 @@
     
 <h3 align="left"><b>Languages:</b></h3>
 <p align="left">
-<img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/html.png?raw=true"/>
-<img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/css.png?raw=true"/>
-<img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/js.png?raw=true"/>
+<img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/html.png?raw=true">
+<img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/css.png?raw=true">
+<img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/js.png?raw=true">
 </p>
 <br>
 
 <h3 align="left"><b>Projects:</b></h3>
 <p align="left">
-<img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/html.png?raw=true"/>
-<img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/css.png?raw=true"/>
-<img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/js.png?raw=true"/>
+<img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/html.png?raw=true">
 </p>
-<br> 
+<br>
+
 <h2><b>Server Owner of Left 4 Dead 2 - Nation Zombies - Follow Us on our social networks below.</b></h2>
  
 <div align="left"> 
