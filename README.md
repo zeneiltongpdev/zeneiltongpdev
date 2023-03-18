@@ -19,11 +19,11 @@
 </div> -->
     
 <h3 align="left"><b>Languages:</h3></b>
-<div align="left">
+<p align="left">
 <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/html.png?raw=true"/>
 <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/css.png?raw=true"/>
 <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/js.png?raw=true"/>
-</div>
+</p>
 <br>
  
 <h2><b>Server Owner of Left 4 Dead 2 - Nation Zombies Follow us on our social networks below.</b></h2>
