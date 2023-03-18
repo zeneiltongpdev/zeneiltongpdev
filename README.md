@@ -20,9 +20,9 @@
 <br>
 
 <h3 align="left"><b>Projects:</b></h3>
-<p align="left">
- [1]<a href="https://github.com/Zeneilton/the-last-of-us-project">The Last of Us project [Dev em Dobro]</a>
-</p>
+<ul align="left">
+<li><a href="https://github.com/Zeneilton/the-last-of-us-project">The Last of Us project [Dev em Dobro]</a></li>
+</ul>
 <br>
 
 <h2><b>Server Owner of Left 4 Dead 2 - Nation Zombies - Follow Us on our social networks below.</b></h2>
