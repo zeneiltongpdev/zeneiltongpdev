@@ -2,7 +2,7 @@
 
 <div align="left">
  <a href="https://github.com/Zeneilton"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&width=435&lines=Hello+Guys!;My+name+is+Zeneilton;I'm+a+coding+veteran.;But+I'm+returning+to+code+in+2023!" alt="Typing SVG" /></a>
- <h2><a href="http://nationzombies.org/discord">Discord: ! ✞Ȥɘɳɘʅ✞#2269</a><a> || </a><a href="https://steamcommunity.com/id/zenelgp/">Steam: ✞Ȥɘɳɘʅ✞</a></h2>
+ <h2><a href="http://nationzombies.org/discord">Discord: ✞Ȥɘɳɘʅ✞#2269</a><br><a href="https://steamcommunity.com/id/zenelgp/">Steam: ✞Ȥɘɳɘʅ✞</a></h2>
 </div>
 
  <div align="center">
