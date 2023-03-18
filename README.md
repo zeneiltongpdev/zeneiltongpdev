@@ -44,7 +44,5 @@
    </a>
 
    ![Snake animation](https://github.com/zeneilton/zeneilton/blob/output/github-contribution-grid-snake.svg)
-   <div align="center">
    [![GitHub Streak](https://streak-stats.demolab.com?user=Zeneilton&theme=tokyonight&fire=EB5454&border=FFFFFF)](https://github.com/Zeneilton)
-   </div>
 </div>
