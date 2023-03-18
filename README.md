@@ -11,7 +11,7 @@
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeneilton&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
-<h3 align="left"><b>Languages:</h3></b>
+<h3 align="left"><b>Languages:</b></h3>
 <p align="left">
 <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/html.png?raw=true"/>
 <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/css.png?raw=true"/>
