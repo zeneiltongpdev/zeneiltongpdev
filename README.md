@@ -1,4 +1,4 @@
-<h1 align="left"><b>Welcome to the Profile of the ✞Ȥɘɳɘʅ✞ 😁</h1></b>
+<h1 align="left">Welcome to the Profile of the ✞Ȥɘɳɘʅ✞ 😁</h1>
 
 <div align="left">
  <a href="https://github.com/Zeneilton"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&width=435&lines=Hello+Guys!;My+name+is+Zeneilton;I'm+a+coding+veteran.;But+I'm+returning+to+code+in+2023!" alt="Typing SVG"></a>
