@@ -20,8 +20,8 @@
 <br>
 
 <h3 align="left"><b>Projects:</b></h3>
-<ul align="left">
-<li><a href="https://github.com/Zeneilton/the-last-of-us-project">The Last of Us project [Dev em Dobro]</a></li>
+<ul>
+ <li><a href="https://github.com/Zeneilton/the-last-of-us-project">The Last of Us project [Dev em Dobro]</a></li>
 </ul>
 <br>
 
