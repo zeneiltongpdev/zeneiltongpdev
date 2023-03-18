@@ -21,7 +21,7 @@
 
 <h3 align="left"><b>Projects:</b></h3>
 <p align="left">
-<img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/html.png?raw=true">
+ <a href="https://zeneilton.github.io/the-last-of-us-project/">The Last of Us project [Dev em Dobro]</a>
 </p>
 <br>
 
