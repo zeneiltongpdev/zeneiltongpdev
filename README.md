@@ -20,8 +20,7 @@
 <br>
 
 <h3 align="left"><b>WakaTime-Stats:</b></h3>
-<a href="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792-82c9468dd942/project/01e7e101-a762-4780-9149-3e768d802e36"><img src="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792-82c9468dd942/project/01e7e101-a762-4780-9149-3e768d802e36.svg" alt="wakatime"></a>
-<a href="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792-82c9468dd942/project/5296d0f2-e586-4f54-9ee0-b4f7147b0206"><img src="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792-82c9468dd942/project/5296d0f2-e586-4f54-9ee0-b4f7147b0206.svg" alt="wakatime"></a>
+<a href="https://wakatime.com/@5b16e0ec-6419-487c-9792-82c9468dd942"><img src="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792-82c9468dd942.svg" alt="Total time coded since Mar 18 2023" /></a>
 
 <h3 align="left"><b>Projects:</b></h3>
 <ul>
