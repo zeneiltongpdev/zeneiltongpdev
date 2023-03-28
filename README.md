@@ -23,9 +23,9 @@
 <a href="https://wakatime.com/@5b16e0ec-6419-487c-9792-82c9468dd942"><img src="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792-82c9468dd942.svg" alt="Total time coded since Mar 18 2023" /></a>
 
 <h3 align="left"><b>Projects:</b></h3>
-<p style="color:red;font-size:18px;">Dev em Dobro</p>
+<h4 style="color:red;font-size:18px;">Dev em Dobro</h4>
 <a href="https://devemdobro.com/matriculas-abertas/" target="_blank">
-<img src="https://devemdobro.com/wp-content/uploads/2022/08/hero-ListaEspera-mob.jpg" alt="dedImg" style="width:60px;height:60px;">
+<img src="https://devemdobro.com/wp-content/uploads/2022/08/hero-ListaEspera-mob.jpg" alt="dedImg" style="width:80px;height:80px;">
 </a>
 
 <ul>
