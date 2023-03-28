@@ -23,8 +23,8 @@
 <a href="https://wakatime.com/@5b16e0ec-6419-487c-9792-82c9468dd942"><img src="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792-82c9468dd942.svg" alt="Total time coded since Mar 18 2023" /></a>
 
 <h3 align="left"><b>Projects:</b></h3>
+<a href="https://devemdobro.com/matriculas-abertas/"><b>Dev em Dobro</b></a>
 <ul>
- <a href="https://devemdobro.com/matriculas-abertas/"><b> [Dev em Dobro]</b></a>
  <li><a href="https://github.com/Zeneilton/the-last-of-us-project">The Last of Us project </a></li>
 </ul>
 <br>
