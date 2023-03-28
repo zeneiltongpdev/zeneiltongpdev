@@ -23,8 +23,8 @@
 
 <h3 align="left"><b>Projects:</b></h3>
 <a href="https://devemdobro.com/matriculas-abertas/" target="_blank">
- <p style="color:purple;"><b>Dev em Dobro</b></p>
  <img src="https://devemdobro.com/wp-content/uploads/2022/08/hero-ListaEspera-mob.jpg" alt="dedImg" style="width:100px;height:100px;">
+ <p style="color:purple;"><b>Dev em Dobro</b></p>
 </a>
 
 <ul>
