@@ -28,7 +28,7 @@
 </a>
 
 <ul>
- <li><a href="https://github.com/Zeneilton/the-last-of-us-project">The Last of Us project </a></li>
+ <li><a href="https://github.com/Zeneilton/the-last-of-us-project">The Last of Us - Project </a></li>
 </ul>
 <br>
 
