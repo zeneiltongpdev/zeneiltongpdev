@@ -24,8 +24,10 @@
 <h3 align="left"><b>Projects:</b></h3>
 <a href="https://devemdobro.com/matriculas-abertas/" target="_blank">
  <img src="https://devemdobro.com/wp-content/uploads/2022/08/hero-ListaEspera-mob.jpg" alt="dedImg" style="width:110px;height:110px;">
- <p style="color:purple;"><b>< Dev em Dobro ></b></p>
+ <p style="color:purple;"><b><Dev em Dobro></b></p>
 </a>
+
+<p style="background-color:tomato;">This is a paragraph.</p>
 
 <ul>
  <li><a href="https://github.com/Zeneilton/the-last-of-us-project">The Last of Us - Project </a></li>
