@@ -27,8 +27,6 @@
  <p style="color:purple;"><b><Dev em Dobro></b></p>
 </a>
 
-<h1 style="background-color:tomato;">This is a paragraph.</h1>
-
 <ul>
  <li><a href="https://github.com/Zeneilton/the-last-of-us-project">The Last of Us - Project </a></li>
 </ul>
