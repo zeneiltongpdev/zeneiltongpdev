@@ -12,11 +12,11 @@
 </div>
     
 <h3 align="left"><b>Languages:</b></h3>
-<p align="left">
-<img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/html.png?raw=true">
-<img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/css.png?raw=true">
-<img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/js.png?raw=true">
-</p>
+ <p align="left">
+   <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/html.png?raw=true">
+   <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/css.png?raw=true">
+   <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/js.png?raw=true">
+ </p>
 <br>
 
 <h3 align="left"><b>WakaTime-Stats:</b></h3>
