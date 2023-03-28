@@ -17,14 +17,13 @@
    <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/css.png?raw=true">
    <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/js.png?raw=true">
  </p>
-<br>
 
 <h3 align="left"><b>WakaTime-Stats:</b></h3>
 <a href="https://wakatime.com/@5b16e0ec-6419-487c-9792-82c9468dd942"><img src="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792-82c9468dd942.svg" alt="Total time coded since Mar 18 2023" /></a>
 
 <h3 align="left"><b>Projects:</b></h3>
 <a href="https://devemdobro.com/matriculas-abertas/" target="_blank">
- <p>Dev em Dobro</p>
+ <p style="color:purple;"><b>Dev em Dobro</b></p>
  <img src="https://devemdobro.com/wp-content/uploads/2022/08/hero-ListaEspera-mob.jpg" alt="dedImg" style="width:100px;height:100px;">
 </a>
 
