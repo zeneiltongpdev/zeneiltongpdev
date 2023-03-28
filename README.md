@@ -24,7 +24,7 @@
 
 <h3 align="left"><b>Projects:</b></h3>
 <ul>
- <li><a href="https://github.com/Zeneilton/the-last-of-us-project">The Last of Us project</a><a href="https://github.com/Zeneilton/the-last-of-us-project"> [Dev em Dobro]</a></li>
+ <li><a href="https://github.com/Zeneilton/the-last-of-us-project">The Last of Us project</a><a href="https://devemdobro.com/matriculas-abertas/"> <h2>[Dev em Dobro]</h2></a></li>
 </ul>
 <br>
 
