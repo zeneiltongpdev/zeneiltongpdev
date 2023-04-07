@@ -15,7 +15,7 @@
  <p align="left">
    <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/html.png?raw=true">
    <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/css.png?raw=true">
-   <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/js.png?raw=true">
+   <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/js1.png?raw=true">
  </p>
 
 <h3 align="left"><b>WakaTime-Stats:</b></h3>
