@@ -1,27 +1,46 @@
-<h1 align="left">Welcome to ✞Ȥɘɳɘʅ✞ Profile 👋🏽</h1>
+<h2 align="left"><strong>Welcome to</strong> ✞Ȥɘɳɘʅ✞ <strong>Profile</strong>👋🏽</h2>
 
-<div align="center">
- <a href="https://github.com/Zeneilton"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&width=435&lines=Hey+Guys!👋;My+name+is+Zeneilton;I'm+a+coding+veteran.;But+I'm+returning+to+code+in+2023!" alt="Typing SVG"></a>
- <h2><a href="http://nationzombies.org/discord">Discord: ✞Ȥɘɳɘʅ✞#2269</a><br><a href="https://steamcommunity.com/id/zenelgp/">Steam: ✞Ȥɘɳɘʅ✞</a></h2>
-</div>
+<!-- <p align="center">
+  <a href="https://github.com/Zeneilton">
+  <img src="https://github.com/Zeneilton/Zeneilton/blob/main/in/name.png?raw=true" alt="name" width="200px"></a>
+</p> -->
+<!-- <img alt=Vetor Gráfico" src="https://www.rocketseat.com.br/assets/icons/emoji.svg" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover" srcset="https://www.rocketseat.com.br/assets/icons/emoji.svg" 1x, https://www.rocketseat.com.br/assets/icons/emoji.svg 2x"> -->
+<!-- <p align="center">
+ <a href="https://github.com/Zeneilton">
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&pause=1000&width=250&lines=Hey+Guys!👨‍💻;I'm+a+coding+veteran.;But+I'm+returning+to+code+in+2023!" alt="Typing SVG"></a>
+</p> -->
+
+<p align="center">
+ <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Experienced%20Web%20Designer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Poppins&center=true&width=440&height=45&color=24BCF7&vCenter=true&pause=1000&size=24" /></a>
+</p>
+ 
+<p align="center">
+  <a href="http://nationzombies.org/discord">Discord: ✞Ȥɘɳɘʅ✞#2269</a>
+  <a href="https://steamcommunity.com/id/zenelgp/">Steam: ✞Ȥɘɳɘʅ✞</a>
+</p>
 
  <div align="center">
    <a href="https://github.com/Zeneilton">
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zeneilton&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeneilton&layout=compact&langs_count=6&theme=tokyonight"></a>
 </div>
-    
-<h3 align="left"><b>Languages:</b></h3>
- <p align="left">
-   <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/html.png?raw=true" title="HTML 5">
-   <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/css.png?raw=true"  title="CSS 3">
-   <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/js1.png?raw=true"  title="Java Script">
- </p>
 
-<h3 align="left"><b>WakaTime-Stats:</b></h3>
-<a href="https://wakatime.com/@5b16e0ec-6419-487c-9792-82c9468dd942"><img src="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792-82c9468dd942.svg" alt="Total time coded since Mar 18 2023" /></a>
+<details open>
+    <summary><h3 align="left"><strong>💻 Languages:</strong></h3></summary>
+    <p align="left">
+       <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/html.png?raw=true" title="HTML 5">
+       <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/css.png?raw=true"  title="CSS 3">
+       <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/js1.png?raw=true"  title="Java Script">
+    </p>
+</details>
 
-<h3 align="left"><b>Projects:</b></h3>
+<details open>
+  <summary><h3 align="left"><strong>WakaTime-Stats:</strong></h3></summary>
+  <a href="https://wakatime.com/@5b16e0ec-6419-487c-9792-82c9468dd942"><img src="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792-82c9468dd942.svg" alt="Total time coded since Mar 18 2023" /></a>
+</details>
+
+<details open>
+  <summary><h3 align="left"><strong>Projects:</strong></h3></summary>
 <a href="https://devemdobro.com/matriculas-abertas/" target="_blank">
  <img src="https://devemdobro.com/wp-content/uploads/2022/08/hero-ListaEspera-mob.jpg" alt="dedImg" style="width:110px;height:110px;" title="Dev em Dobro - DevQuest">
  <p><b>Dev em Dobro</b></p>
@@ -30,6 +49,8 @@
 <ul>
  <li><a href="https://github.com/Zeneilton/the-last-of-us-project">The Last of Us - Project </a></li>
 </ul>
+</details>
+
 <br>
 
 <h2><b>Server Owner of Left 4 Dead 2 - Nation Zombies - Follow Us on our social networks below.</b></h2>
