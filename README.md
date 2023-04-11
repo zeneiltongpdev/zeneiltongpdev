@@ -19,7 +19,7 @@
   <a href="https://steamcommunity.com/id/zenelgp/">Steam: ✞Ȥɘɳɘʅ✞</a>
 </p>
 
-<details open>
+<details close>
     <summary><h3 align="left"><strong>💻 Languages:</strong></h3></summary>
     <p align="left">
        <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/html.png?raw=true" title="HTML 5">
@@ -29,13 +29,13 @@
 </details>
 
 #
-<details> 
-        <summary><h2>🛠️ Favorite Tools</h2></summary>
+<details close> 
+        <summary><h3>🛠️ Favorite Tools</h3></summary>
 </details>
 
 #
-<details open>
-  <summary><h3 align="left"><strong>Projects:</strong></h3></summary>
+<details close>
+  <summary><h3 align="left"><strong>👨🏽‍💻 Projects:</strong></h3></summary>
 <a href="https://devemdobro.com/matriculas-abertas/" target="_blank">
  <img src="https://devemdobro.com/wp-content/uploads/2022/08/hero-ListaEspera-mob.jpg" alt="dedImg" style="width:110px;height:110px;" title="Dev em Dobro - DevQuest">
  <p><b>Dev em Dobro</b></p>
@@ -44,31 +44,29 @@
 <ul>
  <li><a href="https://github.com/Zeneilton/the-last-of-us-project">The Last of Us - Project </a></li>
 </ul>
+
+<h3 align="left">🧟‍♂️Owner in Nation Zombies🧟‍♀️<br/>Left 4 Dead 2 Server</h3></summary>
+    <a href="https://discord.gg/DnuFq97GQb" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+    <a href="https://www.youtube.com/channel/UC--1f9e7e7nZkeuPhJWVcBQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </details>
 
 #
-<summary><h3 align="left"><strong>Server Owner of Left 4 Dead 2 - Nation Zombies - Follow Us on our social networks below.</strong></h3></summary>
- 
-<div align="left"> 
-    <a href="https://discord.gg/DnuFq97GQb" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href="https://www.youtube.com/channel/UC--1f9e7e7nZkeuPhJWVcBQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-</div>
-
-#
 <div align="left">
-<h3>Contact Me!</h3>
-<a href="https://www.linkedin.com/in/zeneilton-granja/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://instagram.com/zenel.gp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "mailto:zeneiltongranja@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<h3>🔗 Contact Me!</h3>
+  <a href="https://www.linkedin.com/in/zeneilton-granja/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/zenel.gp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "mailto:zeneiltongranja@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 #
-<details open>
+<details close>
   <summary><h3><strong>📊 Github Stats and Activity</strong></h3></summary>
   <div align="center">
      <a href="https://github.com/Zeneilton">
      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zeneilton&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeneilton&layout=compact&langs_count=6&theme=tokyonight"></a>
   </div>
-<details open>
+
+<details close>
   <summary><h3 align="left"><strong>WakaTime-Stats:</strong></h3></summary>
   <a href="https://wakatime.com/@5b16e0ec-6419-487c-9792-82c9468dd942"><img src="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792-82c9468dd942.svg" alt="Total time coded since Mar 18 2023" /></a>
 </details>
