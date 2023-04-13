@@ -14,10 +14,10 @@
  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Experienced%20Web%20Designer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Poppins&center=true&width=440&height=45&color=24BCF7&vCenter=true&pause=1000&size=24" /></a>
 </p>
 
-<p align="center">
-  <a href="http://nationzombies.org/discord">Discord: ✞Ȥɘɳɘʅ✞#2269</a>
-  <a href="https://steamcommunity.com/id/zenelgp/">Steam: ✞Ȥɘɳɘʅ✞</a>
-</p>
+  <div align="center">
+  <a href="http://nationzombies.org/discord"><img width="50" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/disc1.png?raw=true" title"Discord @zenel"></a>
+  <a href="https://steamcommunity.com/id/zenelgp/"><img width="50" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/steam1.png?raw=true" title"Steam @zenel"></a>
+</div>
 
 <details close>
     <summary><h3 align="left"><strong>💻 Languages:</strong></h3></summary>
