@@ -19,22 +19,22 @@
   <a href="https://steamcommunity.com/id/zenelgp/"><img width="50" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/steam1.png?raw=true" title"Steam @zenel"></a>
 </div>
 
-<details close>
+<details open>
     <summary><h3 align="left"><strong>💻 Languages:</strong></h3></summary>
     <p align="left">
        <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/html.png?raw=true" title="HTML 5">
        <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/css.png?raw=true"  title="CSS 3">
-       <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/js1.png?raw=true"  title="Java Script">
+       <img height="29" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/js1.png?raw=true"  title="Java Script">
     </p>
 </details>
 
 #
-<details close> 
+<details open> 
         <summary><h3>🛠️ Favorite Tools</h3></summary>
 </details>
 
 #
-<details close>
+<details open>
   <summary><h3 align="left"><strong>👨🏽‍💻 Projects:</strong></h3></summary>
 <a href="https://devemdobro.com/matriculas-abertas/" target="_blank">
  <img src="https://devemdobro.com/wp-content/uploads/2022/08/hero-ListaEspera-mob.jpg" alt="dedImg" style="width:110px;height:110px;" title="Dev em Dobro - DevQuest">
@@ -58,7 +58,7 @@
 </div>
 
 #
-<details close>
+<details open>
   <summary><h3><strong>📊 Github Stats and Activity</strong></h3></summary>
   <div align="center">
      <a href="https://github.com/Zeneilton">
