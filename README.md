@@ -11,7 +11,7 @@
 </p> -->
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Experienced%20Web%20Designer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Poppins&center=true&width=440&height=45&color=24BCF7&vCenter=true&pause=1000&size=24" /></a>
+ <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Experienced%20Web%20Designer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techniques&font=Poppins&center=true&width=440&height=45&color=24BCF7&vCenter=true&pause=1000&size=24" /></a>
 </p>
 
   <div align="center">
