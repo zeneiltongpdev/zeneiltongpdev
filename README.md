@@ -11,7 +11,8 @@
 </p> -->
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Experienced%20Web%20Designer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techniques&font=Poppins&center=true&width=440&height=45&color=24BCF7&vCenter=true&pause=1000&size=24" /></a>
+  <a href="https://github.com/Zeneilton">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Experienced%20Web%20Designer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techniques&font=Poppins&center=true&width=440&height=45&color=24BCF7&vCenter=true&pause=1000&size=24" /></a>
 </p>
 
   <div align="center">
@@ -20,7 +21,7 @@
 </div>
 
 <details close>
-    <summary><h3 align="left"><strong>💻 Languages:</strong></h3></summary>
+    <summary><h3 align="left"><strong>💻 Knowledge Base:</strong></h3></summary>
     <p align="left">
        <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/html.png?raw=true" title="HTML 5">
        <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/css.png?raw=true"  title="CSS 3">
@@ -44,7 +45,7 @@
 <ul>
  <li><a href="https://github.com/Zeneilton/the-last-of-us-project">The Last of Us - Project </a></li>
 </ul>
-#
+
 <h3 align="left">🧟‍♂️Owner in Nation Zombies🧟‍♀️<br/>Left 4 Dead 2 Server</h3></summary>
     <a href="https://discord.gg/DnuFq97GQb" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     <a href="https://www.youtube.com/channel/UC--1f9e7e7nZkeuPhJWVcBQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
