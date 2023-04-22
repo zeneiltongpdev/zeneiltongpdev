@@ -1,4 +1,4 @@
-<h2 align="left"><strong>Welcome to</strong> ✞Ȥɘɳɘʅ✞ <strong>Profile</strong>👋🏽</h2>
+<h1 align="left"><strong>Welcome to</strong> ✞Ȥɘɳɘʅ✞ <strong>Profile</strong>👋🏽</h1>
 
 <!-- <p align="center">
   <a href="https://github.com/Zeneilton">
@@ -19,7 +19,7 @@
   <a href="https://steamcommunity.com/id/zenelgp/"><img width="50" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/steam1.png?raw=true" title"Steam @zenel"></a>
 </div>
 
-<details open>
+<details close>
     <summary><h3 align="left"><strong>💻 Languages:</strong></h3></summary>
     <p align="left">
        <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/html.png?raw=true" title="HTML 5">
@@ -29,12 +29,12 @@
 </details>
 
 #
-<details open> 
+<details close> 
         <summary><h3>🛠️ Favorite Tools</h3></summary>
 </details>
 
 #
-<details open>
+<details close>
   <summary><h3 align="left"><strong>👨🏽‍💻 Projects:</strong></h3></summary>
 <a href="https://devemdobro.com/matriculas-abertas/" target="_blank">
  <img src="https://devemdobro.com/wp-content/uploads/2022/08/hero-ListaEspera-mob.jpg" alt="dedImg" style="width:110px;height:110px;" title="Dev em Dobro - DevQuest">
@@ -58,7 +58,7 @@
 </div>
 
 #
-<details open>
+<details close>
   <summary><h3><strong>📊 Github Stats and Activity</strong></h3></summary>
   <div align="center">
      <a href="https://github.com/Zeneilton">
