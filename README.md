@@ -13,7 +13,7 @@
 <details close>
     <summary><h3 align="left"><strong>💻 Knowledge Base:</strong></h3></summary>
     <p align="left">
-       <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/html.png?raw=true" title="HTML 5">
+       <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="blank"><img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/html.png?raw=true" title="HTML 5"></a>
        <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/css.png?raw=true"  title="CSS 3">
        <img height="29" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/js1.png?raw=true"  title="Java Script">
     </p>
