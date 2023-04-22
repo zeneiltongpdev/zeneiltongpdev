@@ -1,15 +1,5 @@
 <h1 align="left"><strong>Welcome to</strong> ✞Ȥɘɳɘʅ✞ <strong>Profile</strong>👋🏽</h1>
 
-<!-- <p align="center">
-  <a href="https://github.com/Zeneilton">
-  <img src="https://github.com/Zeneilton/Zeneilton/blob/main/in/name.png?raw=true" alt="name" width="200px"></a>
-</p> -->
-<!-- <img alt=Vetor Gráfico" src="https://www.rocketseat.com.br/assets/icons/emoji.svg" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover" srcset="https://www.rocketseat.com.br/assets/icons/emoji.svg" 1x, https://www.rocketseat.com.br/assets/icons/emoji.svg 2x"> -->
-<!-- <p align="center">
- <a href="https://github.com/Zeneilton">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&pause=1000&width=250&lines=Hey+Guys!👨‍💻;I'm+a+coding+veteran.;But+I'm+returning+to+code+in+2023!" alt="Typing SVG"></a>
-</p> -->
-
 <p align="center">
   <a href="https://github.com/Zeneilton">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Experienced%20Web%20Designer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techniques&font=Poppins&center=true&width=440&height=45&color=24BCF7&vCenter=true&pause=1000&size=24" /></a>
