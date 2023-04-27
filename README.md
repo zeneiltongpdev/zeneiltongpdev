@@ -1,8 +1,9 @@
 <h1 align="left"><strong>Welcome to</strong> ✞Ȥɘɳɘʅ✞ <strong>Profile</strong>👋🏽</h1>
 
 <p align="center">
-  <a href="https://github.com/Zeneilton">
-    <img src="https://readme-typing-svg.demolab.com/?lines=FullStack%20Web%20Developer;Experienced%20Web%20Designer;5%2B%20Years%20of%20Coding%20Experience;Always%20Learning%20News%20Techniques&font=Poppins&center=true&width=440&height=45&color=24BCF7&vCenter=true&pause=1000&size=24" /></a>
+<a href="https://github.com/Zeneilton">
+<!--     <img src="https://readme-typing-svg.demolab.com/?lines=FullStack%20Web%20Developer;Experienced%20Web%20Designer;5%2B%20Years%20of%20Coding%20Experience;Always%20Learning%20News%20Techniques&font=Poppins&center=true&width=440&height=45&color=24BCF7&vCenter=true&pause=1000&size=24" /> -->
+<img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer;Experienced%20Web%20Designer;5%2B%20Years%20of%20Coding%20Experience;Always%20Learning%20News%20Techniques&font=Poppins&center=true&width=440&height=45&color=24BCF7&vCenter=true&pause=1000&size=24" /></a>
 </p>
 
   <div align="center">
@@ -60,13 +61,8 @@
      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeneilton&layout=compact&langs_count=6&theme=tokyonight"></a>
   </div>
 
-<details close>
   <summary><h3 align="left"><strong>WakaTime-Stats:</strong></h3></summary>
-  <a href="https://wakatime.com/@5b16e0ec-6419-487c-9792-82c9468dd942"><img src="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792-82c9468dd942.svg" alt="Total time coded since Mar 18 2023" /></a>
-</details>
-  
-  
-  
+  <a href="https://wakatime.com/@5b16e0ec-6419-487c-9792-82c9468dd942"><img src="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792-82c9468dd942.svg" alt="Total time coded since Mar 18 2023" /></a> 
 </details>
 
 ![Snake animation](https://github.com/zeneilton/zeneilton/blob/output/github-contribution-grid-snake.svg)
