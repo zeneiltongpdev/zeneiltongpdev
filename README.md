@@ -53,7 +53,7 @@
 </div>
 
 #
-<details close>
+<details open>
   <summary><h3><strong>📊 Github Stats and Activity</strong></h3></summary>
   <div align="center">
      <a href="https://github.com/Zeneilton">
