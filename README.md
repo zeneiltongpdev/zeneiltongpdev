@@ -37,7 +37,7 @@
 </a>
 
 <ul>
- <li><a href="https://github.com/Zeneilton/the-last-of-us-project">The Last of Us - Project </a></li>
+ <li><a href="https://zeneilton.github.io/the-last-of-us-project/" target="_blank">The Last of Us - Project </a></li>
 </ul>
 
 <h3 align="left">🧟‍♂️Owner in Nation Zombies🧟‍♀️<br/>Left 4 Dead 2 Server</h3></summary>
