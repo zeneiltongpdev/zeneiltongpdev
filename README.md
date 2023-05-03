@@ -57,8 +57,8 @@
   <summary><h3><strong>📊 Github Stats and Activity</strong></h3></summary>
   <div align="center">
      <a href="https://github.com/Zeneilton">
-     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zeneilton&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeneilton&layout=compact&langs_count=6&theme=tokyonight"></a>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Zeneilton&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeneilton&layout=compact&langs_count=6&theme=tokyonight"></a>
   </div>
 
   <summary><h3 align="left"><strong>WakaTime-Stats:</strong></h3></summary>
