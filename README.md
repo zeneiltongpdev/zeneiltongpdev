@@ -57,9 +57,6 @@
   <summary><h3><strong>📊 Github Stats and Activity</strong></h3></summary>
      <a href="https://github.com/Zeneilton"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=Zeneilton&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"></a>
      <a href="https://github.com/Zeneilton"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeneilton&layout=compact&langs_count=6&theme=tokyonight"></a>
-     
-<!--    <a href="https://github.com/Zeneilton/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zeneilton&repo=github-readme-stats" /></a>
-   <a href="https://github.com/Zeneilton/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zeneilton&repo=convoychat" /></a>   -->
 
   <h3 align="left"><strong>WakaTime-Stats:</strong></h3>
   <a href="https://wakatime.com/@5b16e0ec-6419-487c-9792-82c9468dd942"><img src="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792-82c9468dd942.svg" alt="Total time coded since Mar 18 2023" /></a> 
