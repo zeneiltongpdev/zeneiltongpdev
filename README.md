@@ -23,12 +23,12 @@
     </p>
 </details>
 
-#
+<hr>
 <details close> 
         <summary><h3>🛠️ Favorite Tools</h3></summary>
 </details>
 
-#
+<hr>
 <details close>
   <summary><h3 align="left"><strong>👨🏽‍💻 Projects:</strong></h3></summary>
 <a href="https://devemdobro.com/matriculas-abertas/" target="_blank">
@@ -45,7 +45,7 @@
     <a href="https://www.youtube.com/channel/UC--1f9e7e7nZkeuPhJWVcBQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </details>
 
-#
+<hr>
 <div align="left">
 <h3>🔗 Contact Me!</h3>
   <a href="https://www.linkedin.com/in/zeneilton-granja/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
