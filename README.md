@@ -1,13 +1,9 @@
 <h1 align="left"><strong>Welcome to</strong> ✞Ȥɘɳɘʅ✞ <strong>Profile</strong>👋🏽</h1>
 
-<p align="center">
-<a href="https://github.com/Zeneilton">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer;Experienced%20Web%20Designer;5%2B%20Years%20of%20Coding%20Experience;Always%20Learning%20News%20Techniques&font=Poppins&center=true&width=440&height=45&color=24BCF7&vCenter=true&pause=1000&size=24" /></a>
-</p>
-
-  <div align="center">
-  <a href="http://nationzombies.org/discord"><img width="50" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/disc1.png?raw=true" title"Discord @zenel"></a>
+<div align="center">
+<a href="https://github.com/Zeneilton"><img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer;Experienced%20Web%20Designer;5%2B%20Years%20of%20Coding%20Experience;Always%20Learning%20News%20Techniques&font=Poppins&center=true&width=440&height=45&color=24BCF7&vCenter=true&pause=1000&size=24"></a>
+  <a href="https://discord.gg/Xn3X6bvtYe"><img width="50" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/disc1.png?raw=true" title"Discord @zenel"></a>
   <a href="https://steamcommunity.com/id/zenelgp/"><img width="50" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/steam1.png?raw=true" title"Steam @zenel"></a>
 </div>
 
