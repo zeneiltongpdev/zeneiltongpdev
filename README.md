@@ -34,7 +34,7 @@
   <summary><h3>🛠️ Favorite Tools</h3></summary>
     <a href="https://code.visualstudio.com" target="_blank">
       <img height="50" src="https://github.com/Zeneilton/Zeneilton/blob/main/icons/vscode-dc143c.svg" title="VS-Code">
-    </a> <a href="https://github.com" target="_blank">
+    </a> <a href="https://github.com/Zeneilton" target="_blank">
       <img height="50" src="https://github.com/Zeneilton/Zeneilton/blob/main/icons/github-dc143c.svg"  title="GitHub">
     </a> <a href="https://about.gitlab.com" target="_blank">
       <img height="50" src="https://github.com/Zeneilton/Zeneilton/blob/main/icons/gitlab-dc143c.svg"  title="GitLab">
