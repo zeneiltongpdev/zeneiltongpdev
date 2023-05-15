@@ -57,6 +57,8 @@
   <li><a href="https://zeneilton.github.io/the-last-of-us-project/" target="_blank">The Last of Us - Project </a></li>
   <li><a href="https://pokemons.zeneiltongp.dev" target="_blank">Pokémons List - Project</a></li>
 </ul>
+    <a align="right" href="#"><img src="https://cdn.discordapp.com/attachments/1106062888017330206/1106697492566913074/Opera_Instantaneo_2023-05-12_180829_127.0.0.1.png" title"Steam @zenel" width="100%" heigth="auto"></a>
+  
 <h3 align="left">🧟‍♂️Owner in Nation Zombies🧟‍♀️<br/>Left 4 Dead 2 Server</h3></summary>
     <a href="https://discord.gg/DnuFq97GQb" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     <a href="https://www.youtube.com/channel/UC--1f9e7e7nZkeuPhJWVcBQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
