@@ -3,25 +3,49 @@
 
 <div align="center">
   <a href="https://github.com/Zeneilton"><img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer;Experienced%20Web%20Designer;5%2B%20Years%20of%20Coding%20Experience;Always%20Learning%20News%20Techniques&font=Ubuntu&center=true&width=500&height=70&color=dc143c&vCenter=true&pause=1000&size=24"></a>
-  <a href="https://discord.gg/Xn3X6bvtYe"><img src="https://github.com/Zeneilton/Zeneilton/blob/main/icons/discord-dc143c.svg" title"Discord @zenel" width="60px" height="60px"></a> <a href="https://steamcommunity.com/id/zenelgp/"><img src="https://github.com/zeneilton/zeneilton/blob/main/icons/steam.svg" title"Steam @zenel"  width="50px" height="50px"></a><br><br>
-  <a href="#"><img src="https://cdn.discordapp.com/attachments/1106062888017330206/1106697340561137716/Opera_Instantaneo_2023-05-12_175358_127.0.0.1.png" title"Steam @zenel" width="100%" heigth="auto"></a>
+  <a href="https://discord.gg/Xn3X6bvtYe"><img src="https://github.com/Zeneilton/Zeneilton/blob/main/icons/discord-dc143c.svg" title"Discord @zenel" width="60px" height="60px"></a><br>
+  <a align="right" href="#"><img src="https://cdn.discordapp.com/attachments/1106062888017330206/1106697340561137716/Opera_Instantaneo_2023-05-12_175358_127.0.0.1.png" title"Steam @zenel" width="100%" heigth="auto"></a>
 </div>
 
 <details open>
-    <summary><h3 align="left"><strong>💻 Knowledge Base:</strong></h3></summary>
-    <p align="left">
-       <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/" target="_blank">
-         <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/html.png?raw=true" title="HTML 5"></a>
-       <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-         <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/js1.png?raw=true"  title="Java Script"></a>
-       <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-         <img height="30" src="https://github.com/Zeneilton/icons/blob/main/icons-abilitys/css.png?raw=true"  title="CSS 3"></a>
-    </p>
+  <summary><h3 align="left"><strong>💻 Knowledge Base:</strong></h3></summary>
+  <p align="center">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/" target="_blank">
+    <img height="50" src="https://github.com/Zeneilton/Zeneilton/blob/main/icons/html-dc143c.svg" title="HTML 5">
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+    <img height="50" src="https://github.com/Zeneilton/Zeneilton/blob/main/icons/css3-dc143c.svg"  title="CSS 3">
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+    <img height="50" src="https://github.com/Zeneilton/Zeneilton/blob/main/icons/javascript-dc143c.svg"  title="Java Script">
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Glossary/PHP" target="_blank">
+    <img height="50" src="https://github.com/Zeneilton/Zeneilton/blob/main/icons/php.svg"  title="PHP">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL" target="_blank">
+    <img height="50" src="https://github.com/Zeneilton/Zeneilton/blob/main/icons/sql.svg"  title="SQL">
+  </a>
+  <a href="https://www.mysql.com" target="_blank">
+    <img height="50" src="https://github.com/Zeneilton/Zeneilton/blob/main/icons/mysql-dc143c.svg"  title="SQL">
+  </a>
+  </p>
 </details>
 
 <hr>
 <details open> 
-        <summary><h3>🛠️ Favorite Tools</h3></summary>
+  <summary><h3>🛠️ Favorite Tools</h3></summary>
+    <a href="https://code.visualstudio.com" target="_blank">
+      <img height="50" src="https://github.com/Zeneilton/Zeneilton/blob/main/icons/vscode-dc143c.svg" title="VS-Code">
+    </a>
+    <a href="https://github.com" target="_blank">
+      <img height="50" src="https://github.com/Zeneilton/Zeneilton/blob/main/icons/github-dc143c.svg"  title="GitHub">
+    </a>
+    <a href="https://about.gitlab.com" target="_blank">
+      <img height="50" src="https://github.com/Zeneilton/Zeneilton/blob/main/icons/gitlab-dc143c.svg"  title="GitLab">
+    </a>
+    <a href="https://wakatime.com" target="_blank">
+     <img height="50" src="https://github.com/Zeneilton/Zeneilton/blob/main/icons/wakatime-dc143c.svg"  title="Wakatime">
+    </a>
 </details>
 
 <hr>
