@@ -20,12 +20,12 @@
 </details>
 
 <hr>
-<details close> 
+<details open> 
         <summary><h3>🛠️ Favorite Tools</h3></summary>
 </details>
 
 <hr>
-<details close>
+<details open>
   <summary><h3 align="left"><strong>👨🏽‍💻 Projects:</strong></h3></summary>
 <a href="https://devemdobro.com/matriculas-abertas/" target="_blank">
  <img src="https://devemdobro.com/wp-content/uploads/2022/08/hero-ListaEspera-mob.jpg" alt="dedImg" style="width:110px;height:110px;" title="Dev em Dobro - DevQuest">
@@ -33,7 +33,8 @@
 </a>
 
 <ul>
- <li><a href="https://zeneilton.github.io/the-last-of-us-project/" target="_blank">The Last of Us - Project </a></li>
+  <li><a href="https://zeneilton.github.io/the-last-of-us-project/" target="_blank">The Last of Us - Project </a></li>
+  <li><a href="https://pokemons.zeneiltongp.dev" target="_blank">Pokémons List - Project</a></li>
 </ul>
 
 <h3 align="left">🧟‍♂️Owner in Nation Zombies🧟‍♀️<br/>Left 4 Dead 2 Server</h3></summary>
