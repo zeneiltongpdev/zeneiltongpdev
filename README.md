@@ -2,7 +2,9 @@
 <div align="center">
   <a href="https://github.com/Zeneilton"><img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer;Experienced%20Web%20Designer;5%2B%20Years%20of%20Coding%20Experience;Always%20Learning%20News%20Techniques&font=Ubuntu&center=true&width=500&height=70&color=dc143c&vCenter=true&pause=1000&size=24"></a>
   <a href="https://discord.gg/Xn3X6bvtYe"><img src="https://github.com/Zeneilton/Zeneilton/blob/main/icons/discord-dc143c.svg" title"Discord @zenel" width="60px" height="60px"></a><br>
-  <a align="right" href="#"><img src="https://cdn.discordapp.com/attachments/1106062888017330206/1106697340561137716/Opera_Instantaneo_2023-05-12_175358_127.0.0.1.png" title"Steam @zenel" width="100%" heigth="auto"></a>
+  
+![This is an image](https://cdn.discordapp.com/attachments/1106062888017330206/1106697340561137716/Opera_Instantaneo_2023-05-12_175358_127.0.0.1.png)
+  
 </div>
 <details open>
   <summary><h3 align="left"><strong>💻 Knowledge Base:</strong></h3></summary>
@@ -57,7 +59,8 @@
   <li><a href="https://zeneilton.github.io/the-last-of-us-project/" target="_blank">The Last of Us - Project </a></li>
   <li><a href="https://pokemons.zeneiltongp.dev" target="_blank">Pokémons List - Project</a></li>
 </ul>
-    <a align="right" href="#"><img src="https://cdn.discordapp.com/attachments/1106062888017330206/1106697492566913074/Opera_Instantaneo_2023-05-12_180829_127.0.0.1.png" title"Steam @zenel" width="100%" heigth="auto"></a>
+  
+  ![This is an image](https://cdn.discordapp.com/attachments/1106062888017330206/1106697492566913074/Opera_Instantaneo_2023-05-12_180829_127.0.0.1.png)
   
 <h3 align="left">🧟‍♂️Owner in Nation Zombies🧟‍♀️<br/>Left 4 Dead 2 Server</h3></summary>
     <a href="https://discord.gg/DnuFq97GQb" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
