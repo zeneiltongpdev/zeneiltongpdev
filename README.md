@@ -8,7 +8,7 @@
 </div>
 <details open>
   <summary><h3 align="left"><strong>💻 Knowledge Base:</strong></h3></summary>
-  <p align="left">
+  <div align="left">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/" target="_blank">
     <img height="50" src="https://github.com/Zeneilton/Zeneilton/blob/main/icons/html-dc143c.svg" title="HTML 5">
   </a>
@@ -17,7 +17,7 @@
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
     <img height="50" src="https://github.com/Zeneilton/Zeneilton/blob/main/icons/javascript-dc143c.svg"  title="Java Script">
-  </a>
+  </a><br>
   <a href="https://developer.mozilla.org/pt-BR/docs/Glossary/PHP" target="_blank">
     <img height="50" src="https://github.com/Zeneilton/Zeneilton/blob/main/icons/php.svg"  title="PHP">
   </a>
@@ -27,7 +27,11 @@
   <a href="https://www.mysql.com" target="_blank">
     <img height="70" src="https://github.com/Zeneilton/Zeneilton/blob/main/icons/mysql-dc143c.svg"  title="MySQL">
   </a>
-  </p>
+  </div>
+</details>
+<details open>
+  <summary><h3 align="left"><strong>WakaTime-Stats:</strong></h3></summary>
+  <a href="https://wakatime.com/@5b16e0ec-6419-487c-9792-82c9468dd942"><img src="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792-82c9468dd942.svg" alt="Total time coded since Mar 18 2023" /></a>
 </details>
 <hr>
 <details open> 
@@ -71,8 +75,6 @@
   <summary><h3><strong>📊 Github Stats and Activity</strong></h3></summary>
      <a href="https://github.com/Zeneilton"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=Zeneilton&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"></a>
      <a href="https://github.com/Zeneilton"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeneilton&layout=compact&langs_count=6&theme=tokyonight"></a>
-  <h3 align="left"><strong>WakaTime-Stats:</strong></h3>
-  <a href="https://wakatime.com/@5b16e0ec-6419-487c-9792-82c9468dd942"><img src="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792-82c9468dd942.svg" alt="Total time coded since Mar 18 2023" /></a> 
 </details>
 
 ![Snake animation](https://github.com/zeneilton/zeneilton/blob/output/github-contribution-grid-snake.svg)
