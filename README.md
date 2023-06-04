@@ -9,17 +9,17 @@
   
 <details open>
   <summary><h3 align="left"><strong>💻 Front-End Knowledge Base</strong></h3></summary>
-  <img src="https://skillicons.dev/icons?i=react,materialui,redux,javascript,tailwind,styledcomponents,sass,css,html,vite,git" />
+  <img src="https://skillicons.dev/icons?i=react,materialui,redux,javascript,styledcomponents,sass,css,html,vite,git&perline=5" />
 </details>
 
 <details open>
   <summary><h3 align="left"><strong>💻 Back-End Knowledge Base</strong></h3></summary>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,prisma,mysql,postgresql,mongodb,firebase,java,spring,php" />
+  <img src="https://skillicons.dev/icons?i=nodejs,sequelize,prisma,mysql,postgresql,mongodb,firebase,java,spring,php&perline=5" />
 </details>
 
 <details open>
   <summary><h3 align="left"><strong>🛠️ Favorite Tools Knowledge Base:</strong></h3></summary>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,github,gitlab,bash,powershell,kotlin,postman,linux,aws" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,github,gitlab,bash,kotlin,postman,linux,aws&perline=5" />
 </details>  
 
 <details open>
