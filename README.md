@@ -24,7 +24,8 @@
 
 <details open>
   <summary><h3 align="left"><strong>⏱ WakaTime-Stats</strong></h3></summary>
-  <a href="https://wakatime.com/@5b16e0ec-6419-487c-9792-82c9468dd942"><img src="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792-82c9468dd942.svg" alt="Total time coded since Mar 18 2023" /></a>
+  <a href="https://wakatime.com/@5b16e0ec-6419-487c-9792-82c9468dd942"><img src="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792-82c9468dd942.svg" alt="Total time coded since Mar 18 2023" /></a><br>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/wakatime?username=zeneldev&show_icons=true&theme=tokyonight" />
 </details>
 
 <div align="left">
@@ -51,10 +52,13 @@
 <hr>
 <details open>
   <summary><h3><strong>📊 Github Stats and Activity</strong></h3></summary>
-     <a href="https://github.com/Zeneilton"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=Zeneilton&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"></a>
-     <a href="https://github.com/Zeneilton"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeneilton&layout=compact&langs_count=6&theme=tokyonight"></a>
-</details>
+<!--      <a href="https://github.com/Zeneilton"> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeneilton&show_icons=true&theme=tokyonight&layout=compact&locale=pt-br&langs_count=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zeneilton&hide=prs,issues&show_icons=true&theme=tokyonight&rank_icon=github&locale=pt-br&line_height=30"/>
 
 ![Snake animation](https://github.com/zeneilton/zeneilton/blob/output/github-contribution-grid-snake.svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Zeneilton&theme=tokyonight&fire=EB5454&border=FFFFFF)](https://github.com/Zeneilton)
+
+       
+</details>
