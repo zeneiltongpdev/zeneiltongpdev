@@ -28,16 +28,17 @@
   <img height="250em" src="https://github-readme-stats.vercel.app/api/wakatime?username=zeneldev&show_icons=true&theme=dracula" />
 </details>
 
-<div align="left">
 <h3>🔗 Contact Me!</h3>
-  <a href="https://www.linkedin.com/in/zeneilton-granja/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/zenel.gp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "mailto:zeneiltongranja@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+  <a href="https://www.linkedin.com/in/zeneilton-granja/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/zenel.gp">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href = "mailto:zeneiltongranja@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <hr>
 <details open>
   <summary><h3 align="left"><strong>👨🏽‍💻 Projects:</strong></h3></summary>
-<a href="https://devemdobro.com/matriculas-abertas/" target="_blank">
- <img src="https://devemdobro.com/wp-content/uploads/2022/08/hero-ListaEspera-mob.jpg" alt="dedImg" style="width:110px;height:110px;" title="Dev em Dobro - DevQuest">
+<a href="https://devemdobro.com/matriculas-abertas/">
  <p><b>Dev em Dobro</b></p>
 </a>
 <ul>
@@ -55,8 +56,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeneilton&show_icons=true&theme=tokyonight&layout=compact&locale=pt-br&langs_count=10"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zeneilton&hide=prs,issues&show_icons=true&theme=tokyonight&rank_icon=github&locale=pt-br&line_height=30"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Zeneilton&theme=tokyonight&fire=EB5454&border=FFFFFF)](https://github.com/Zeneilton)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zeneiltongpdev&theme=tokyonight&fire=EB5454&border=FFFFFF)](https://github.com/zeneilton)
   
-![Snake animation](https://github.com/zeneilton/zeneilton/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/zeneiltongpdev/zeneilton/blob/output/github-contribution-grid-snake.svg)
 
 </details>
