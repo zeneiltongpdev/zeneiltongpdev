@@ -53,8 +53,8 @@
 <hr>
 <details open>
   <summary><h3><strong>📊 Github Stats and Activity</strong></h3></summary>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeneilton&show_icons=true&theme=tokyonight&layout=compact&locale=pt-br&langs_count=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zeneilton&hide=prs,issues&show_icons=true&theme=tokyonight&rank_icon=github&locale=pt-br&line_height=30"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeneiltongpdev&show_icons=true&theme=tokyonight&layout=compact&locale=en&langs_count=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeneiltongpdev&hide=prs,issues&show_icons=true&theme=tokyonight&rank_icon=github&locale=en&line_height=30"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=zeneiltongpdev&theme=tokyonight&fire=EB5454&border=FFFFFF)](https://github.com/zeneilton)
   
