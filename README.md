@@ -10,12 +10,12 @@
 ![This is an image](https://cdn.discordapp.com/attachments/1106062888017330206/1106697340561137716/Opera_Instantaneo_2023-05-12_175358_127.0.0.1.png)
   
 <details open>
-  <summary><h3 align="left"><strong>💻 Front-End Knowledge Base</strong></h3></summary>
+  <summary><h3 align="left"><strong>💻 Front-End Basic Knowledge Base</strong></h3></summary>
   <img src="https://skillicons.dev/icons?i=react,materialui,redux,javascript,styledcomponents,sass,css,html,vite,git&perline=5" />
 </details>
 
 <details open>
-  <summary><h3 align="left"><strong>💻 Back-End Knowledge Base</strong></h3></summary>
+  <summary><h3 align="left"><strong>💻 Back-End Basic Knowledge Base</strong></h3></summary>
   <img src="https://skillicons.dev/icons?i=nodejs,sequelize,prisma,mysql,postgresql,mongodb,firebase,java,spring,php&perline=5" />
 </details>
 
