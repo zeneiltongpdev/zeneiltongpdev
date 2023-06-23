@@ -2,7 +2,9 @@
 <h2 align="left"><em>Welcome to my Profile</em></h2>
 <div align="center">
   <a href="https://github.com/Zeneilton"><img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer;Experienced%20Web%20Designer;5%2B%20Years%20of%20Coding%20Experience;Always%20Learning%20News%20Techniques&font=Ubuntu&center=true&width=500&height=70&color=dc143c&vCenter=true&pause=1000&size=24"></a>
-  <a href="https://discord.me/devzones">Join to us!<img src="https://github.com/Zeneilton/Zeneilton/blob/main/icons/discord-dc143c.svg" title"Discord @zenel" width="60px"></a>
+  <a href="https://discord.me/devzones">
+    <img src="https://github.com/Zeneilton/Zeneilton/blob/main/icons/discord-dc143c.svg" title"Discord @zenel" width="60px">
+  </a>
 </div> 
 
 ![This is an image](https://cdn.discordapp.com/attachments/1106062888017330206/1106697340561137716/Opera_Instantaneo_2023-05-12_175358_127.0.0.1.png)
