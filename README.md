@@ -1,31 +1,33 @@
 <h1 align="left"><em>Hi there, I'm Zeneilton</em>👋🏽</h1>
 <h2 align="left"><em>Welcome to my Profile</em></h2>
-<div align="center">
-  <a href="https://github.com/Zeneilton"><img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer;Experienced%20Web%20Designer;5%2B%20Years%20of%20Coding%20Experience;Always%20Learning%20News%20Techniques&font=Ubuntu&center=true&width=500&height=70&color=dc143c&vCenter=true&pause=1000&size=24"></a>
-</div>
-<div align="right">
-  <a href="https://discord.me/devzones">
-      <img src="https://github.com/Zeneilton/Zeneilton/blob/main/icons/discord-dc143c.svg" width="60px"><br>
-      <p><img src="https://profile-counter.glitch.me/{zeneiltongpdev}/count.svg" />
+<h3 align="center">
+  <a href="https://github.com/Zeneilton">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer;Experienced%20Web%20Designer;5%2B%20Years%20of%20Coding%20Experience;Always%20Learning%20News%20Techniques&font=Ubuntu&center=true&width=500&height=70&color=dc143c&vCenter=true&pause=1000&size=24">
   </a>
-</div>
+      <p><em>Join to my Discord:</em><br>
+      <a href="https://discord.me/devzones">
+      <img src="https://github.com/Zeneilton/Zeneilton/blob/main/icons/discord-dc143c.svg" width="60px"></p>
+    <p><em>GitHub Visitors:</em><br>
+      <img src="https://profile-counter.glitch.me/{zeneiltongpdev}/count.svg" /></p>
+  </a>
+</h3>
 
 ![This is an image](https://cdn.discordapp.com/attachments/1106062888017330206/1106697340561137716/Opera_Instantaneo_2023-05-12_175358_127.0.0.1.png)
   
 <details open>
   <summary><h3 align="left"><strong>💻 Front-End Basic Knowledge Base</strong></h3></summary>
-  <img src="https://skillicons.dev/icons?i=react,materialui,redux,javascript,styledcomponents,sass,css,html,vite,git&perline=5" />
+  <img src="https://skillicons.dev/icons?i=react,materialui,redux,javascript,styledcomponents,sass,css,html,vite,git" />
 </details>
 
 <details open>
   <summary><h3 align="left"><strong>💻 Back-End Basic Knowledge Base</strong></h3></summary>
-  <img src="https://skillicons.dev/icons?i=nodejs,sequelize,prisma,mysql,postgresql,mongodb,firebase,java,spring,php&perline=5" />
+  <img src="https://skillicons.dev/icons?i=nodejs,sequelize,prisma,mysql,postgresql,mongodb,firebase,java,spring,php" />
 </details>
 
 <details open>
   <summary><h3 align="left"><strong>🛠️ Favorite Tools Knowledge Base:</strong></h3></summary>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,github,gitlab,bash,kotlin,postman,linux,aws&perline=5" />
-</details>  
+  <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,github,gitlab,bash,kotlin,postman,linux,aws" /> <!--&perline=5-->
+</details>
 
 <details open>
   <summary><h3 align="left"><strong>⏱ WakaTime-Stats</strong></h3></summary>
