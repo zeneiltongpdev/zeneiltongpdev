@@ -2,17 +2,20 @@
 <h2 align="left">Welcome to my Profile</h2>
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer;Experienced%20Web%20Designer;5%2B%20Years%20of%20Coding%20Experience;Always%20Learning%20News%20Techniques&font=Ubuntu&center=true&width=500&height=70&color=dc143c&vCenter=true&pause=1000&size=24">
-  <p><em>Join to my Discord:</em><br>
+</h3>
+<h3 align="right">
+  <p>
+    <em>Join to my Discord:</em><br>
     <a href="https://discord.me/devzones">
       <img src="https://github.com/Zeneilton/Zeneilton/blob/main/icons/discord-dc143c.svg" width="60px">
     </a>
   </p>
-  <p><em>GitHub Visitors:</em><br>
+  <p>
+    <em>GitHub Visitors:</em><br>
     <img src="https://profile-counter.glitch.me/{zeneiltongpdev}/count.svg" />
   </p>
 </h3>
 
-![This is an image](https://cdn.discordapp.com/attachments/1106062888017330206/1106697340561137716/Opera_Instantaneo_2023-05-12_175358_127.0.0.1.png)
   
 <details open>
   <summary><h3 align="left"><strong>💻 Front-End Basic Knowledge Base</strong></h3></summary>
@@ -42,7 +45,7 @@
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href = "mailto:zeneiltongranja@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<hr>
+<h2></h2>
 <details open>
   <summary><h3 align="left"><strong>👨🏽‍💻 Projects:</strong></h3></summary>
 
@@ -52,7 +55,7 @@
   <li><a href="https://zeneilton.github.io/the-last-of-us-project/" target="_blank">The Last of Us</a></li>
   <li><a href="https://pokemons.zeneiltongp.dev" target="_blank">Pokémons Basic List</a></li>
 </ul>
-<hr>
+<h2></h2>
 <div align="center">  
 <h3>🧟‍♂️Owner in Nation Zombies🧟‍♀️<br/>Left 4 Dead 2 Server</h3></summary>
   <p>Organization: <a href="https://github.com/Nation-Zombies-Org">Click Here!</a></p>
@@ -60,14 +63,19 @@
     <a href="https://www.youtube.com/channel/UC--1f9e7e7nZkeuPhJWVcBQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 </details>
-<hr>
+<h2></h2>
 <details open>
   <summary><h3><strong>📊 Github Stats and Activity</strong></h3></summary>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeneiltongpdev&show_icons=true&theme=radical&layout=compact&locale=en&langs_count=10"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=zeneiltongpdev&hide=prs,issues&show_icons=true&theme=radical&rank_icon=github&locale=en&line_height=30"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=zeneiltongpdev&theme=radical&fire=EB5454&border=FFFFFF)](https://github.com/zeneilton)
+<div>
   
-![Snake animation](https://github.com/zeneiltongpdev/zeneilton/blob/output/github-contribution-grid-snake.svg)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zeneiltongpdev&theme=radical&fire=EB5454&border=FFFFFF)](https://github.com/zeneilton)
+<img width="310em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeneiltongpdev&show_icons=true&theme=radical&layout=compact&locale=en&langs_count=10"/><br />
+  <img width="570em" src="https://github-readme-stats.vercel.app/api?username=zeneiltongpdev&hide=prs,issues&show_icons=true&theme=radical&rank_icon=github&locale=en&line_height=30"/>
+</div>
 
+  <details open>
+  <summary><h3><strong><em>Contributions in the last year:</em></h4></strong></h3></summary>
+    
+  ![Snake animation](https://github.com/zeneiltongpdev/zeneilton/blob/output/github-contribution-grid-snake.svg)
+  </details>
 </details>
