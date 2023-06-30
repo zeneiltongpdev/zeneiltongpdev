@@ -63,8 +63,8 @@
 <hr>
 <details open>
   <summary><h3><strong>📊 Github Stats and Activity</strong></h3></summary>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeneiltongpdev&show_icons=true&theme=radical&layout=compact&locale=en&langs_count=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeneiltongpdev&hide=prs,issues&show_icons=true&theme=radical&rank_icon=github&locale=en&line_height=30"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeneiltongpdev&show_icons=true&theme=radical&layout=compact&locale=en&langs_count=10"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=zeneiltongpdev&hide=prs,issues&show_icons=true&theme=radical&rank_icon=github&locale=en&line_height=30"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=zeneiltongpdev&theme=radical&fire=EB5454&border=FFFFFF)](https://github.com/zeneilton)
   
