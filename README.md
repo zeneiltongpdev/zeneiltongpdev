@@ -45,9 +45,9 @@
 <hr>
 <details open>
   <summary><h3 align="left"><strong>👨🏽‍💻 Projects:</strong></h3></summary>
-<a href="https://devemdobro.com/matriculas-abertas/">
- <p><b>Dev em Dobro</b></p>
-</a>
+
+ <h2><strong><em><a href="https://devemdobro.com/matriculas-abertas/">#Dev em Dobro - DevQuest</a></em></strong></h2>
+
 <ul>
   <li><a href="https://zeneilton.github.io/the-last-of-us-project/" target="_blank">The Last of Us</a></li>
   <li><a href="https://pokemons.zeneiltongp.dev" target="_blank">Pokémons Basic List</a></li>
