@@ -35,7 +35,7 @@
 <details open>
   <summary><h3 align="left"><strong>⏱ WakaTime-Stats</strong></h3></summary>
   <a href="https://wakatime.com/@5b16e0ec-6419-487c-9792-82c9468dd942"><img src="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792-82c9468dd942.svg" alt="Total time coded since Mar 18 2023" /></a><br>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/wakatime?username=zeneldev&show_icons=true&theme=dracula" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=zeneldev&show_icons=true&theme=radical" />
 </details>
 
 <h3>🔗 Contact Me!</h3>
