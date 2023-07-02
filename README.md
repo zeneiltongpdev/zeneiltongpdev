@@ -49,7 +49,7 @@
 <h2></h2>
 <details open>
   <summary><h3 align="left"><strong>👨🏽‍💻 Projects:</strong></h3></summary>
-  <strong><em><a href="https://devemdobro.com/matriculas-abertas/">#Dev em Dobro - DevQuest</a></em></strong>
+  Dev em Dobro - <strong><em><a href="https://devemdobro.com/matriculas-abertas/">DevQuest</a></em></strong>
 
   <ul>
     <li><a href="https://zeneilton.github.io/the-last-of-us-project/" target="_blank">The Last of Us</a></li>
@@ -73,12 +73,9 @@
 <details open>
   <summary><h3><strong>📊 Github Stats and Activity</strong></h3></summary>
   
-  <div>
-  
   [![GitHub Streak](https://streak-stats.demolab.com?user=zeneiltongpdev&theme=radical&fire=EB5454&border=FFFFFF)](https://github.com/zeneilton)
   <img width="310em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeneiltongpdev&show_icons=true&theme=radical&layout=compact&locale=en&langs_count=10"/><br />
     <img width="570em" src="https://github-readme-stats.vercel.app/api?username=zeneiltongpdev&hide=prs,issues&show_icons=true&theme=radical&rank_icon=github&locale=en&line_height=30"/>
-  </div>
 
   <details open>
   <summary><h3><strong><em>Contributions in the last year:</em></h4></strong></h3></summary>
