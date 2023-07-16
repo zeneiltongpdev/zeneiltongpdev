@@ -81,7 +81,8 @@
   <details open>
   <summary><h3><strong><em>Contributions in the last year:</em></h4></strong></h3></summary>
     
-  ![Snake animation](https://github.com/zeneiltongpdev/zeneilton/blob/output/github-contribution-grid-snake.svg)
+  ![snake animation](https://github.com/zeneiltongpdev/zeneiltongpdev/blob/output/github-contribution-grid-snake2.svg)
+
   </details>
   </div>
 </details>
