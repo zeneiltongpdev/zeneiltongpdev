@@ -1,8 +1,7 @@
 <h3 align="left">Hi, I'm Zeneilton, and welcome to my Profile! 👋🏽</h3> 
 <p align="right">( <em>Eu sou o Zeneilton, e seja bem-vindo ao meu perfil</em> )</p>
 
-<h2></h2>
-
+##
 <div align="right">
   <a href="https://discord.me/devzones">
     <img src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/images/DEV.png?raw=true" >
@@ -15,8 +14,7 @@
   Se você está vendo esse<br /> perfil e esse banner te chamou atenção fique a vontate para se juntar a nós.</em></q>
 </div>
 
-<h2></h2>
-
+##
 <h3 align="left">
   <img src="https://readme-typing-svg.demolab.com/?lines=About me:&font=Ubuntu&left=true&width=1000&height=70&color=9c28d4&vCenter=true&pause=10000&size=24">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer;Experienced%20UX/UI%20Designer;3%2B%20Years%20of%20Coding%20Experience;Always%20Learning%20News%20Techniques&font=Ubuntu&left=true&width=1000&height=70&color=9c28d4&vCenter=true&pause=500&size=32">
