@@ -1,4 +1,4 @@
-<h3 align="left">Hi, I'm Zeneilton! 👋🏽, and welcome to my Profile</h3> 
+<h3 align="left">Hi, I'm Zeneilton, and welcome to my Profile! 👋🏽</h3> 
 <p align="right">( <em>Eu sou o Zeneilton, e seja bem-vindo ao meu perfil</em> )</p>
 
 <h2></h2>
