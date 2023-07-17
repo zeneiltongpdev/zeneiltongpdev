@@ -65,3 +65,4 @@
   <a href = "https://wsp.zeneiltongp.dev">
     <img src="https://img.shields.io/badge/-Whatsapp-%23333?style=for-the-badge&logo=whatsapp&logoColor=green">
   </a>
+<!--<a href="https://app.daily.dev/zeneilton"><img src="https://api.daily.dev/devcards/c208e958d48d4d30a42090f9a2dcd492.png?r=eor" width="400" alt="Zeneilton Granja de Paulo's Dev Card"/></a>-->
