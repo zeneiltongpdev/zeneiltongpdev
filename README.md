@@ -27,12 +27,12 @@
   </tr>
 </table>
 </div>
-<hr />
-<img src="https://visitor-badge.feriirawann.repl.co/?username=zeneiltongpdev&repo=zeneiltongpdev&style=for-the-badge&label=Visitors&logo=OpenTelemetry&color=9c28d4&contentType=svg"
-            alt="ZeneiltonDev Github Profile Visitors" height="40px" />
 <br /><br /><br /><br /><br /><br />
 
 ##
+<hr />
+<img src="https://visitor-badge.feriirawann.repl.co/?username=zeneiltongpdev&repo=zeneiltongpdev&style=for-the-badge&label=Visitors&logo=OpenTelemetry&color=9c28d4&contentType=svg" alt="ZeneiltonDev Github Profile Visitors" height="40px" />
+
 <h3 align="left">
   <img src="https://readme-typing-svg.demolab.com/?lines=About me:&font=Ubuntu&left=true&width=1000&height=70&color=9c28d4&vCenter=true&pause=10000&size=24">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer;Experienced%20UX/UI%20Designer;3%2B%20Years%20of%20Coding%20Experience;Always%20Learning%20News%20Techniques&font=Ubuntu&left=true&width=1000&height=70&color=9c28d4&vCenter=true&pause=500&size=32">
