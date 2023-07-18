@@ -38,7 +38,7 @@
 
 <details open >
   <summary><h3><strong>📊 Github Stats and Activity</strong></h3></summary>
-  <div align="center">
+  <div align="left">
     <img width="400em" src="https://streak-stats.demolab.com?user=zeneiltongpdev&theme=radical&hide_border=true" />
     <img width="450em" src="https://github-readme-stats.vercel.app/api?username=zeneiltongpdev&hide=prs,issues&show_icons=true&theme=radical&rank_icon=github&locale=en&line_height=30&hide_border=true"/>
     <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeneiltongpdev&show_icons=true&theme=radical&layout=compact&locale=en&langs_count=10&hide_border=true"/>
