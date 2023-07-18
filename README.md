@@ -27,6 +27,9 @@
   </tr>
 </table>
 </div>
+<hr />
+<img src="https://visitor-badge.feriirawann.repl.co/?username=zeneiltongpdev&repo=zeneiltongpdev&style=for-the-badge&label=Visitors&logo=OpenTelemetry&color=9c28d4&contentType=svg"
+            alt="ZeneiltonDev Github Profile Visitors" height="40px" />
 <br /><br /><br /><br /><br /><br />
 
 ##
