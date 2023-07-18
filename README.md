@@ -6,12 +6,28 @@
   <a href="https://discord.me/devzones">
     <img src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/images/DEV.png?raw=true" >
   </a>
-  <q>
-    <em>DEV ZONES is a small community of aligned developers on Discord<br /> aligned to pursue their potential in technology.
-    If you are seeing this profile<br /> and this banner caught your attention, feel free to join us.</em>
-  </q><br /><br />
-  <q><em>DEV ZONES é uma pequena comunidade de desenvolvedores no Discord<br /> alinhados buscando seu potencial em tecnoloigia.
-  Se você está vendo esse<br /> perfil e esse banner te chamou atenção fique a vontate para se juntar a nós.</em></q>
+<table align="left">
+  <tr>
+    <td>
+      <b>
+        <a><img src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/icons/brazil-flag.gif?raw=true">BR</a>
+      </b>
+    </td>
+    <td>
+      <q><em><strong>#DEVZONES</strong> é uma pequena comunidade de desenvolvedores no Discord alinhados buscando seu potencial em tecnoloigia. Se você está vendo esse perfil e esse banner te chamou atenção fique a vontate para se juntar a nós.</em></q>
+    </td>
+    <td align="center">
+      <b>
+        <a><img src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/icons/united-states.gif?raw=true">EN</a>
+      </b>
+    </td>
+    <td>
+      <q><em><strong>#DEVZONES</strong> is a small community of aligned developers on Discord aligned to pursue their potential in technology. If you are seeing this profile and this banner caught your attention, feel free to join us.</em></q>
+    </td>
+  </tr>
+</table>
+<br /><br />
+
 </div>
 
 ##
@@ -23,14 +39,21 @@
 <details open >
   <summary><h3><strong>📊 Github Stats and Activity</strong></h3></summary>
   <div align="center">
-    
-  [![GitHub Streak](https://streak-stats.demolab.com?user=zeneiltongpdev&theme=radical&fire=EB5454&border=FFFFFF)](https://github.com/zeneilton)
-  <img width="310em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeneiltongpdev&show_icons=true&theme=radical&layout=compact&locale=en&langs_count=10"/>
-  <br />
-    <img width="570em" src="https://github-readme-stats.vercel.app/api?username=zeneiltongpdev&hide=prs,issues&show_icons=true&theme=radical&rank_icon=github&locale=en&line_height=30"/>
+    <img width="400em" src="https://streak-stats.demolab.com?user=zeneiltongpdev&theme=radical&hide_border=true" />
+    <img width="450em" src="https://github-readme-stats.vercel.app/api?username=zeneiltongpdev&hide=prs,issues&show_icons=true&theme=radical&rank_icon=github&locale=en&line_height=30&hide_border=true"/>
+    <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeneiltongpdev&show_icons=true&theme=radical&layout=compact&locale=en&langs_count=10&hide_border=true"/>
+    <img width="410em" src="https://github-readme-stats.vercel.app/api/wakatime?username=zeneldev&langs_count=8&theme=radical&hide_border=true&custom_title=Coding%20Time&range=all_time&cache_seconds=14400" />
+    <div align="left" >
+      <p>WakaTime Stats:</p>
+      <a href="https://wakatime.com/@5b16e0ec-6419-487c-9792-82c9468dd942">
+        <img src="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792-82c9468dd942.svg"
+          alt="Total time coded since Mar 18 2023" />
+      </a>
+    </div>
   </div>
 </details>
 
+##
 <h1 align="center">Some Technologies I've been practicing 😃</h1>
   
 <div align="center">
@@ -43,14 +66,6 @@
   <h3><strong>🛠️ Favorite Tools Knowledge Base</strong></h3>
   <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,github,gitlab,bash,kotlin,postman,linux,aws" /> <!--&perline=5-->
 </div>
-
-<details open>
-  <summary><h3 align="left"><strong>⏱ WakaTime-Stats</strong></h3></summary>
-  <a href="https://wakatime.com/@5b16e0ec-6419-487c-9792-82c9468dd942"><img src="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792-82c9468dd942.svg" alt="Total time coded since Mar 18 2023" />
-  </a>
-  <br />
-  <img height="230em" src="https://github-readme-stats.vercel.app/api/wakatime?username=zeneldev&show_icons=true&theme=radical" />
-</details>
 
 <h3>🔗 Contact Me!</h3>
   <a href="https://www.linkedin.com/in/zeneilton-granja/">
