@@ -1,4 +1,4 @@
-<h3 align="left">Hi, I'm Zeneilton, and welcome to my Profile! 👋🏽</h3> 
+<h3 align="left">Hi, I'm Zeneilton, and welcome to my Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3> 
 <p align="right">( <em>Eu sou o Zeneilton, e seja bem-vindo ao meu perfil</em> )</p>
 
 ##
