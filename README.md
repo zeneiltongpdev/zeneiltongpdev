@@ -65,7 +65,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,sequelize,prisma,mysql,postgresql,mongodb,firebase,java,spring,php" />
 
   <h3><strong>🛠️ Favorite Tools Knowledge Base</strong></h3>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,github,gitlab,bash,kotlin,postman,linux,aws" /> <!--&perline=5-->
+  <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,github,gitlab,bash,discord,postman,linux,aws" /> <!--&perline=5-->
 </div>
 
 <h3>🔗 Contact Me!</h3>
