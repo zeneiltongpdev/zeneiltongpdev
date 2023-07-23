@@ -69,17 +69,11 @@
 </div>
 
 <h3>🔗 Contact Me!</h3>
-  <a href="https://www.linkedin.com/in/zeneilton-granja/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://instagram.com/zenel.gp">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://wsp.zeneiltongp.dev">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
-  <a href="mailto:zeneiltongranja@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+<div>
+  <a href="https://www.linkedin.com/in/zeneilton-granja/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/zenel.gp"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://wsp.zeneiltongp.dev"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="mailto:zeneiltongranja@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c28d4&height=120&section=footer"/>
