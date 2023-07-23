@@ -81,3 +81,5 @@
   <a href="mailto:zeneiltongranja@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c28d4&height=120&section=footer"/>
