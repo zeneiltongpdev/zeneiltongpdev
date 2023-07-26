@@ -68,7 +68,7 @@
   <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,github,gitlab,bash,discord,postman,linux,aws" /> <!--&perline=5-->
 </div>
 
-<h3>🔗 Contact Me!</h3>
+<h3>Contact Me!</h3>
 <div>
   <a href="https://www.linkedin.com/in/zeneilton-granja/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://instagram.com/zenel.gp"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
