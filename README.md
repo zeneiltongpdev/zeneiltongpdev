@@ -1,7 +1,6 @@
-<h3 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Zeneilton, and welcome to my Profile! </h3> 
-<p align="right">( <em>Eu sou o Zeneilton, e seja bem-vindo ao meu perfil</em> )</p>
+<h2 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Zeneilton! </h2> 
+<h4 align="left"> <em>- Creator #DEVZONES Community:</em></h4>
 
-##
 <div align="right">
   <a href="https://discord.me/devzones">
     <img src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/images/DEV.png?raw=true" >
