@@ -37,12 +37,13 @@
 </h3>
 
 <details open >
-  <summary><h3><strong>📊 Github Stats and Activity</strong></h3></summary>
+  <summary><h3><strong>📊 Stats and Activity</strong></h3></summary>
   <div align="left">
     <img width="350em" src="https://streak-stats.demolab.com?user=zeneiltongpdev&theme=radical&hide_border=true" />
     <img width="400em" src="https://github-readme-stats.vercel.app/api?username=zeneiltongpdev&hide=prs,issues&show_icons=true&theme=radical&rank_icon=github&locale=en&line_height=30&hide_border=true"/>
     <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeneiltongpdev&show_icons=true&theme=radical&layout=compact&locale=en&langs_count=10&hide_border=true"/>
     <img width="410em" src="https://github-readme-stats.vercel.app/api/wakatime?username=zeneldev&langs_count=8&theme=radical&hide_border=true&custom_title=Coding%20Time&range=all_time&cache_seconds=14400" />
+    <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/646943cf410780a6d9ba4fb2?variant=dark&roadmaps=frontend%2Cbackend%2Cpostgresql-dba%2Ctypescript" alt="roadmap.sh"/></a>
     <div align="left" >
       <p>WakaTime Stats:</p>
       <a href="https://wakatime.com/@5b16e0ec-6419-487c-9792-82c9468dd942">
