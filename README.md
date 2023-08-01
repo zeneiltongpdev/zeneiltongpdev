@@ -1,10 +1,6 @@
 <h2 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Zeneilton! </h2> 
 <h4 align="left"> <em>- Creator #DEVZONES Community:</em></h4>
 
-<div align="right">
-  <a href="https://discord.me/devzones">
-    <img src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/images/DEV.png?raw=true" >
-  </a>
 <table align="left">
   <tr>
     <td>
@@ -13,19 +9,24 @@
       </b>
     </td>
     <td>
+      <a href="https://discord.me/devzones">
+       <img src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/images/DEV.png?raw=true" >
+      </a>
       <q><em><strong>#DEVZONES</strong> é uma pequena comunidade de desenvolvedores no Discord alinhados buscando seu potencial em tecnoloigia. Se você está vendo esse perfil e esse banner te chamou atenção fique a vontate para se juntar a nós.</em></q>
     </td>
-    <td align="center">
+    <td>
       <b>
         <a><img src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/icons/united-states.gif?raw=true">EN</a>
       </b>
     </td>
     <td>
+      <a href="https://discord.me/devzones">
+        <img src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/images/DEV.png?raw=true" >
+      </a>
       <q><em><strong>#DEVZONES</strong> is a small community of aligned developers on Discord aligned to pursue their potential in technology. If you are seeing this profile and this banner caught your attention, feel free to join us.</em></q>
     </td>
   </tr>
 </table>
-</div>
 <div  align="right">
   <img src="https://visitor-badge.feriirawann.repl.co/?username=zeneiltongpdev&repo=zeneiltongpdev&style=for-the-badge&label=Visitors&logo=OpenTelemetry&color=9c28d4&contentType=svg" alt="ZeneiltonDev Github Profile Visitors" height="40px" />
 </div>
