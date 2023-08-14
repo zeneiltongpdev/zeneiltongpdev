@@ -10,7 +10,6 @@
 <h4 align="left"> <em>- Criador da Comunidade <a href="https://discord.me/devzones">#DEVZONES</a> no Discord</em></h4>
 
 <h3 align="left">
-  <img src="https://readme-typing-svg.demolab.com/?lines=About me:&font=Ubuntu&left=true&width=1000&height=70&color=9c28d4&vCenter=true&pause=10000&size=24">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer;Experienced%20UX/UI%20Designer;3%2B%20Years%20of%20Coding%20Experience;Always%20Learning%20News%20Techniques&font=Ubuntu&left=true&width=1000&height=70&color=9c28d4&vCenter=true&pause=500&size=32">
 </h3>
 
