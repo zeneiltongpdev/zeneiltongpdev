@@ -7,32 +7,7 @@
 <br />
 <img align="right" src="https://visitor-badge.feriirawann.repl.co/?username=zeneiltongpdev&repo=zeneiltongpdev&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=9c28d4&contentType=svg" alt="ZeneiltonDev Github Profile Visitors" height="40px">
 
-
-
-
-
-<h4 align="left"> <em>- Criador da Comunidade #DEVZONES no Discord</em></h4>
-
-<table align="left">
-  <tr>
-    <td>
-      <a href="https://discord.me/devzones">
-       <img src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/images/DEV.png?raw=true" >
-      </a>
-      <q><em><strong>#DEVZONES</strong> é uma pequena comunidade de desenvolvedores no Discord alinhados buscando seu potencial em tecnoloigia. Se você está vendo esse perfil e esse banner te chamou atenção fique a vontate para se juntar a nós.</em></q>
-    </td>
-    <td>
-      <b>
-      </b>
-    </td>
-    <td>
-      <a href="https://discord.me/devzones">
-        <img src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/images/DEV.png?raw=true" >
-      </a>
-      <q><em><strong>#DEVZONES</strong> is a small community of aligned developers on Discord aligned to pursue their potential in technology. If you are seeing this profile and this banner caught your attention, feel free to join us.</em></q>
-    </td>
-  </tr>
-</table>
+<h4 align="left"> <em>- Criador da Comunidade <a href="https://discord.me/devzones">#DEVZONES</a> no Discord</em></h4>
 
 <h3 align="left">
   <img src="https://readme-typing-svg.demolab.com/?lines=About me:&font=Ubuntu&left=true&width=1000&height=70&color=9c28d4&vCenter=true&pause=10000&size=24">
@@ -45,7 +20,7 @@
     <img width="350em" src="https://streak-stats.demolab.com?user=zeneiltongpdev&theme=radical&hide_border=true" />
     <img width="393em" src="https://github-readme-stats.vercel.app/api?username=zeneiltongpdev&hide=prs,issues&show_icons=true&theme=radical&rank_icon=github&locale=en&line_height=30&hide_border=true"/>
     <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeneiltongpdev&show_icons=true&theme=radical&layout=compact&locale=en&langs_count=10&hide_border=true"/>
-    <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/646943cf410780a6d9ba4fb2?variant=dark&roadmaps=frontend%2Cbackend%2Cpostgresql-dba%2Ctypescript" alt="roadmap.sh"/></a>
+    <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/646943cf410780a6d9ba4fb2?variant=dark&roadmaps=frontend%2Cbackend%2Cpostgresql-dba%2Ctypescript" alt="roadmap.sh"/></a> <br />
       <a href="https://wakatime.com/@5b16e0ec-6419-487c-9792-82c9468dd942">
         <img src="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792-82c9468dd942.svg"
           alt="Total time coded since Mar 18 2023" />
