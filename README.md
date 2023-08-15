@@ -20,29 +20,25 @@
     <img src="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792-82c9468dd942.svg"
           alt="Total time coded since Mar 18 2023" />
   </a>
-<!--<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/646943cf410780a6d9ba4fb2?variant=dark&roadmaps=frontend%2Cbackend%2Cpostgresql-dba%2Ctypescript" alt="roadmap.sh"/></a> -->
 </div>
-<!-- </details> -->
 
-<h1 align="center">Some Technologies I've been practicing 😃</h1>
-  
 <div align="center">
-  <h3><strong>💻 Front-End Basic Knowledge Base</strong></h3>
-  <img src="https://skillicons.dev/icons?i=react,vite,redux,materialui,javascript,styledcomponents,sass,css,html,git" />
+<h3>Some Technologies I've been practicing 😃</h3>
+  
+  <h4><strong>💻 Front-End Basic Knowledge Base</strong></h4>
+  <img width="400em" src="https://skillicons.dev/icons?i=react,vite,redux,materialui,javascript,styledcomponents,sass,css,html,git" />
 
-  <h3><strong>🚪 Back-End Basic Knowledge Base</strong></h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,sequelize,prisma,mysql,postgresql,mongodb,firebase,java,spring,php" />
+  <h4><strong>🚪 Back-End Basic Knowledge Base</strong></h4>
+  <img width="400em" src="https://skillicons.dev/icons?i=nodejs,sequelize,prisma,mysql,postgresql,mongodb,firebase,java,spring,php" />
 
-  <h3><strong>🛠️ Favorite Tools Knowledge Base</strong></h3>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,github,gitlab,bash,discord,postman,linux,aws" /> <!--&perline=5-->
+  <h4><strong>🛠️ Favorite Tools Knowledge Base</strong></h4>
+  <img width="400em" src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,github,gitlab,bash,discord,postman,linux,aws" />
 </div>
 
 <h3>Contact Me!</h3>
 <div>
   <a href="https://www.linkedin.com/in/zeneilton-granja/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/zenel.gp"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://wsp.zeneiltongp.dev"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="mailto:zeneiltongranja@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
-  
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c28d4&height=120&section=footer"/>
+</div>  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c28d4&height=120&section=footer"/>
