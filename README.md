@@ -25,13 +25,13 @@
 <div align="center">
 <h3>Some Technologies I've been practicing 😃</h3>
   
-  <h4><strong>💻 Front-End Basic Knowledge Base</strong></h4>
-  <img width="400em" src="https://skillicons.dev/icons?i=react,vite,redux,materialui,javascript,styledcomponents,sass,css,html,git" />
+  <h4><strong>💻 Front-End Developer</strong></h4>
+  <img width="400em" src="https://skillicons.dev/icons?i=react,next,vite,redux,materialui,javascript,typescript,styledcomponents,sass,css,html,git" />
 
-  <h4><strong>🚪 Back-End Basic Knowledge Base</strong></h4>
+  <h4><strong>🚪 Back-End Developer</strong></h4>
   <img width="400em" src="https://skillicons.dev/icons?i=nodejs,sequelize,prisma,mysql,postgresql,mongodb,firebase,java,spring,php" />
 
-  <h4><strong>🛠️ Favorite Tools Knowledge Base</strong></h4>
+  <h4><strong>🛠️ Favorite Tools</strong></h4>
   <img width="400em" src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,github,gitlab,bash,discord,postman,linux,aws" />
 </div>
 
