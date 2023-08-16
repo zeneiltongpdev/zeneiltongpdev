@@ -8,14 +8,15 @@
   <img align="right" src="https://visitor-badge.feriirawann.repl.co/?username=zeneiltongpdev&repo=zeneiltongpdev&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=9c28d4&contentType=svg" alt="ZeneiltonDev Github Profile Visitors" height="40px">
 </h3>
 
-
 <h4 align="left"> <em>- Criador da Comunidade <a href="https://discord.me/devzones">#DEVZONES</a> no Discord</em></h4>
 
 <div align="left">
   <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeneiltongpdev&show_icons=true&theme=radical&layout=compact&locale=en&langs_count=10&hide_border=true"/>
   <img width="485em" src="https://streak-stats.demolab.com?user=zeneiltongpdev&theme=radical&hide_border=true" />
-  <img width="393em" src="https://github-readme-stats.vercel.app/api?username=zeneiltongpdev&hide=prs,issues&show_icons=true&theme=radical&rank_icon=github&locale=en&line_height=30&hide_border=true"/>
 <br />
+</div>
+
+<div align="right">
   <a href="https://wakatime.com/@5b16e0ec-6419-487c-9792-82c9468dd942">
     <img src="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792-82c9468dd942.svg"
           alt="Total time coded since Mar 18 2023" />
