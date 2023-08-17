@@ -10,13 +10,13 @@
 
 <h4 align="left"> <em>- Criador da Comunidade <a href="https://discord.me/devzones">#DEVZONES</a> no Discord</em></h4>
 
-<div align="left">
+<div align="center">
   <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeneiltongpdev&show_icons=true&theme=radical&layout=compact&locale=en&langs_count=10&hide_border=true"/>
   <img width="485em" src="https://streak-stats.demolab.com?user=zeneiltongpdev&theme=radical&hide_border=true" />
 <br />
 </div>
 
-<div align="right">
+<div align="center">
   <a href="https://wakatime.com/@5b16e0ec-6419-487c-9792-82c9468dd942">
     <img src="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792-82c9468dd942.svg"
           alt="Total time coded since Mar 18 2023" />
