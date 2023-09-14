@@ -1,4 +1,6 @@
-<h2 align="left">Oi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Eu sou o Zeneilton, bem-vindo(a)!</h2>
+<h1 align="left">Oi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Eu sou o Zeneilton!</h1>
+<h2 align="left">E você está no meu perfil 😃, seja muuito bem-vindo(a)</h2>
+<h3>Um pouco sobre mim:</h3>
 
 ```
 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá e sou apaixonado
