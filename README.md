@@ -1,7 +1,20 @@
 <h2 align="left">Oi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Eu sou o Zeneilton, bem-vindo(a)!</h2>
 
+```
+👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá e sou apaixonado
+por tecnologia e programação.
+
+📚 Hoje em dia meus estudos estão direcionados para o desenvolvimento backend, trabalhando em projetos
+pessoais, usando as seguintes tecnologias:
+
+👨‍💻 JavaScript, TypeScript, Node.Js, Express.Js, PostgreSQL, Java Spring, Spring
+Boot e outras frameworks e bibliotecas.
+
+Buscando me tornar um programador de alto nível.
+🚀 Esse sou eu, pronto para enfrentar desafios no mundo da programação.
+```
 <h3 align="right">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer;Experienced%20UX/UI%20Designer;3%2B%20Years%20of%20Coding%20Experience;Always%20Learning%20News%20Techniques&font=Ubuntu&left=true&width=1000&height=70&color=9c28d4&vCenter=true&pause=500&size=32">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20Full%20Stack;Experiêcias%20Básicas%20do%20Usúario%20UI/UX;Mais%20de%203%20%20Anos%20%20de%20Experiência%20Codando;Sempre%20Aprendendo%20Novas%20Tecnologias&font=Ubuntu&left=true&width=1000&height=70&color=9c28d4&vCenter=true&pause=500&size=32">
   <a href=""><img width="30px" src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/icons/brazil-flag.gif?raw=true"></a>
   <a href=""><img width="30px" src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/icons/united-states.gif?raw=true"></a>
   <br />
