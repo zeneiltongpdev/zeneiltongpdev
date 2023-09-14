@@ -1,5 +1,11 @@
 <h1 align="left">Oi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Eu sou o Zeneilton!</h1>
 <h2 align="left">E você está no meu perfil 😃, seja muuito bem-vindo(a)</h2>
+<h3 align="right">
+  <a href=""><img width="30px" src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/icons/brazil-flag.gif?raw=true"></a>
+  <a href=""><img width="30px" src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/icons/united-states.gif?raw=true"></a>
+  <br />
+  <img align="right" src="https://visitor-badge.feriirawann.repl.co/?username=zeneiltongpdev&repo=zeneiltongpdev&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=9c28d4&contentType=svg" alt="ZeneiltonDev Github Profile Visitors" height="40px">
+</h3>
 <h3>Um pouco sobre mim:</h3>
 
 ```
@@ -17,10 +23,6 @@ Buscando me tornar um programador de alto nível.
 ```
 <h3 align="right">
   <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20Full%20Stack;Experiêcias%20Básicas%20do%20Usúario%20UI/UX;Mais%20de%203%20%20Anos%20%20de%20Experiência%20Codando;Sempre%20Aprendendo%20Novas%20Tecnologias&font=Ubuntu&left=true&width=1000&height=70&color=9c28d4&vCenter=true&pause=500&size=32">
-  <a href=""><img width="30px" src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/icons/brazil-flag.gif?raw=true"></a>
-  <a href=""><img width="30px" src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/icons/united-states.gif?raw=true"></a>
-  <br />
-  <img align="right" src="https://visitor-badge.feriirawann.repl.co/?username=zeneiltongpdev&repo=zeneiltongpdev&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=9c28d4&contentType=svg" alt="ZeneiltonDev Github Profile Visitors" height="40px">
 </h3>
 
 <h4 align="left"> <em>- Criador da Comunidade <a href="https://discord.me/devzones">#DEVZONES</a> no Discord</em></h4>
