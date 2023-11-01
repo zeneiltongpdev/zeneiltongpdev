@@ -10,7 +10,7 @@
 
 ```
 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá e sou apaixonado
-por tecnologia e programação.
+por tecnologia e programação...
 
 📚 Hoje em dia meus estudos estão direcionados para o desenvolvimento backend, trabalhando em projetos
 pessoais, usando as seguintes tecnologias:
