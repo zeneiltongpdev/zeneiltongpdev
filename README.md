@@ -2,9 +2,9 @@
 <h2 align="left">E você está no meu perfil 😃, seja muito bem-vindo(a)</h2>
 <h3 align="right">
   <a href=""><img width="30px" src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/icons/brazil-flag.gif?raw=true"></a>
-  <a href=""><img width="30px" src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/icons/united-states.gif?raw=true"></a>
+  <!-- <a href=""><img width="30px" src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/icons/united-states.gif?raw=true"></a>
   <br />
-  <img align="right" src="https://visitor-badge.feriirawann.repl.co/?username=zeneiltongpdev&repo=zeneiltongpdev&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=9c28d4&contentType=svg" alt="ZeneiltonDev Github Profile Visitors" height="40px">
+  <img align="right" src="https://visitor-badge.feriirawann.repl.co/?username=zeneiltongpdev&repo=zeneiltongpdev&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=9c28d4&contentType=svg" alt="ZeneiltonDev Github Profile Visitors" height="40px"> -->
 </h3>
 <h3>Um pouco sobre mim:</h3>
 
