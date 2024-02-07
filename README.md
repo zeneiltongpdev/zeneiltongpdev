@@ -40,7 +40,7 @@ Buscando me tornar um programador de alto nível.
   </a>
 </div>
 
-<div align="center">
+<!--<div align="center">
 <h3>Some Technologies I've been practicing 😃</h3>
   
   <h4><strong>💻 Front-End Developer</strong></h4>
@@ -51,7 +51,7 @@ Buscando me tornar um programador de alto nível.
 
   <h4><strong>🛠️ Favorite Tools</strong></h4>
   <img width="400em" src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,github,gitlab,bash,discord,postman,linux,aws" />
-</div>
+</div>-->
 
 <h3>Contact Me!</h3>
 <div>
