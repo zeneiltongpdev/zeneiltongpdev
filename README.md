@@ -21,6 +21,8 @@ Boot e outras frameworks e bibliotecas.
 Buscando me tornar um programador de alto nível.
 🚀 Esse sou eu, pronto para enfrentar desafios no mundo da programação.
 ```
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/646943cf410780a6d9ba4fb2?variant=dark&roadmaps=blockchain%2Cbackend%2Ctypescript)](https://roadmap.sh)
+
 <h3 align="right">
   <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20Full%20Stack;Experiêcias%20Básicas%20do%20Usúario%20UI/UX;Mais%20de%203%20%20Anos%20%20de%20Experiência%20Codando;Sempre%20Aprendendo%20Novas%20Tecnologias&font=Ubuntu&left=true&width=1000&height=70&color=9c28d4&vCenter=true&pause=500&size=32">
 </h3>
