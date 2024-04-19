@@ -44,25 +44,26 @@ nível e estou pronto para enfrentar desafios no mundo da programação.
 
 <div align="center">
   
-## Algumas Linguagens que tenho estudado até aqui! 😃
+# Algumas Linguagens que tenho estudado até aqui! 😃
   
-  <h4><strong>💻 Front-End Developer</strong></h4>
-    <img width="500px" src="https://skillicons.dev/icons?i=react,next,vite,redux,materialui,javascript,typescript,styledcomponents,sass,css,html,git" />
+<h2> 💻 Como Desenvolvedor Frontend: </h2>
+<img width="500px" src="https://skillicons.dev/icons?i=react,next,vite,redux,materialui,javascript,typescript,styledcomponents,sass,css,html,git" />
 
-  <h4><strong>🚪 Back-End Developer</strong></h4>
-    <img width="500px" src="https://skillicons.dev/icons?i=nodejs,sequelize,prisma,mysql,postgresql,mongodb,firebase,java,spring,php" />
+<h2> 🚪 Como Desenvolvedor Backend: </h2>
+<img width="500px" src="https://skillicons.dev/icons?i=nodejs,sequelize,prisma,mysql,postgresql,mongodb,firebase,java,spring,php" />
 
-  <h4><strong>🛠️ Favorite Tools</strong></h4>
-    <img width="500px" src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,github,gitlab,bash,discord,postman,linux,aws" />    
-
+<h2> 🛠️ Ferramentas Favoritas: </h2>
+<img width="500px" src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,github,gitlab,bash,discord,postman,linux,aws" />
 </div>
 
-## My activities: 🔨
+#
+
+## Minhas atividades: 🔨
 ![contrib graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zeneiltongpdev&label=Profile%20views&color=9c28d4&style=flat" alt="sashtje" /> </p>
 
-## Contact Me!
+# Entre em Contato Comigo!
 <div>
   <a href="https://www.linkedin.com/in/zeneilton-granja/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://wa.me/5587991460246?text=Olá!%20Deixe%20uma%20mensagem%20para%20o%20DevZen!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
