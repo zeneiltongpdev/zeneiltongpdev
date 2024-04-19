@@ -7,7 +7,7 @@
   
   <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20Full%20Stack;Experiêcias%20Básicas%20do%20Usúario%20UI/UX;Mais%20de%203%20%20Anos%20%20de%20Experiência%20Codando;Sempre%20Aprendendo%20Novas%20Tecnologias&font=Ubuntu&left=true&width=1000&height=70&color=9c28d4&vCenter=true&pause=500&size=32">
   
-  <a href="https://github.com/zeneiltongpdev/zeneiltongpdev/edit/main/README.md"><img width="50px" src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/icons/brazil-flag.gif?raw=true"></a>
+  <a href="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/README.md"><img width="50px" src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/icons/brazil-flag.gif?raw=true"></a>
   <a href="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/README_english.md"><img width="50px" src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/icons/united-states.gif?raw=true"></a>
 
 ```

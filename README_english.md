@@ -36,7 +36,7 @@ level and I'm ready to face challenges in the world of programming.
 
    ![contrib graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
-   <a href="https://wakatime.com/@5b16e0ec-6419-487c-9792-82c9468dd942"><img src="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792- 82c9468dd942.svg" alt="Total time coded since Mar 18 2023" /></a>
+   <a href="https://wakatime.com/@5b16e0ec-6419-487c-9792-82c9468dd942"><img src="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792-82c9468dd942.svg" alt="Total time coded since Mar 18 2023" /></a>
   
    ## Some languages I have studied so far! 😃
   
@@ -55,7 +55,7 @@ level and I'm ready to face challenges in the world of programming.
 # Contact Me!
 
    <a href="https://www.linkedin.com/in/zeneilton-granja/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="https://wa.me/5587991460246?text=Hello!%20Leave%20a%20message%20for%20o%20DevZen!"><img src="https://img.shields.io/badge /WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+   <a href="https://wa.me/5587991460246?text=Olá!%20Deixe%20uma%20mensagem%20para%20o%20DevZen!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
    <a href="mailto:zeneiltongranja@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></ a>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c28d4&height=120&section=footer"/>
 </div>
