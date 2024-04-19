@@ -7,8 +7,8 @@
   
    <img src="https://readme-typing-svg.demolab.com/?lines=Developer%20Full%20Stack;Experiêcias%20Básicas%20do%20Usúario%20UI/UX;Mais%20de%203%20%20Anos% 20%20de%20Experience%20Codando;Always%20Learning%20New%20Technologies&font=Ubuntu&left=true&width=1000&height=70&color=9c28d4&vCenter=true&pause=500&size=32">
   
-   <a href=""><img width="50px" src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/icons/brazil-flag.gif?raw=true"></a>
-   <a href=""><img width="50px" src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/icons/united-states.gif?raw=true"></a>
+   <a href="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/README.md"><img width="50px" src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/icons/brazil-flag.gif?raw=true"></a>
+   <a href="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/README_english.md"><img width="50px" src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/icons/united-states.gif?raw=true"></a>
 
 ```
 👨‍🎓 I'm a Systems Analysis and Development student at Estácio de Sá University, passionate about technology
@@ -50,11 +50,11 @@ level and I'm ready to face challenges in the world of programming.
    <img width="500px" src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,github,gitlab,bash,discord,postman,linux,aws" />
 
 #
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zeneiltongpdev&label=Profile%20views&color=9c28d4&style=flat" alt="zeneiltongpdev" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=zeneiltongpdev&label=Profile%20views&color=9c28d4&style=flat" alt="zeneiltongpdev" /> </p>
 
 # Contact Me!
 
-   <a href="https://www.linkedin.com/in/zeneiltongpdev/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for- the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://www.linkedin.com/in/zeneilton-granja/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="https://wa.me/5587991460246?text=Hello!%20Leave%20a%20message%20for%20o%20DevZen!"><img src="https://img.shields.io/badge /WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
    <a href="mailto:zeneiltongranja@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></ a>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c28d4&height=120&section=footer"/>
