@@ -3,13 +3,13 @@
   <h1>Oi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Eu sou o Zeneilton!</h1>
   <h2>E você está no meu perfil 😃, seja muito bem-vindo(a)</h2>
 
+  <div align=right>
+    <a href="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/README.md"><img width="50px" src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/icons/brazil-flag.gif?raw=true"></a>
+    <a href="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/README_english.md"><img width="50px" src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/icons/united-states.gif?raw=true"></a>
+  </div>
+  
   <h3>Um pouco sobre mim:</h3>
   
-  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20Full%20Stack;Experiêcias%20Básicas%20do%20Usúario%20UI/UX;Mais%20de%203%20%20Anos%20%20de%20Experiência%20Codando;Sempre%20Aprendendo%20Novas%20Tecnologias&font=Ubuntu&left=true&width=1000&height=70&color=9c28d4&vCenter=true&pause=500&size=32">
-  
-  <a href="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/README.md"><img width="50px" src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/icons/brazil-flag.gif?raw=true"></a>
-  <a href="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/README_english.md"><img width="50px" src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/icons/united-states.gif?raw=true"></a>
-
 ```
 👨‍🎓 Sou um estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá, apaixonado por tecnologia
 e programação desde 2012, quando comecei meu curso de TIC noInstituto Federal do Sertão Pernambucano (IFPE).
@@ -25,8 +25,9 @@ Além disso, completei um bootcamp pela empresa Nearx Innovation School - Bootca
 TypeScript, PostgreSQL, Java Spring e Spring Boot. Continuo buscando me aprimorar para me tornar um programador de alto
 nível e estou pronto para enfrentar desafios no mundo da programação.
 ```
-##
-
+  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20Full%20Stack;Experiêcias%20Básicas%20do%20Usúario%20UI/UX;Mais%20de%203%20%20Anos%20%20de%20Experiência%20Codando;Sempre%20Aprendendo%20Novas%20Tecnologias&font=Ubuntu&left=true&width=1000&height=70&color=9c28d4&vCenter=true&pause=500&size=32">
+  <hr />
+  
   ## [Professor da Turma no Servidor dos Programadores - (Junte-se a Nós)](https://discord.gg/servidordosprogramadores) 📚👨🏽‍🏫
 
   [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/646943cf410780a6d9ba4fb2?variant=dark&roadmaps=blockchain%2Cbackend%2Ctypescript)](https://roadmap.sh)
@@ -48,8 +49,7 @@ nível e estou pronto para enfrentar desafios no mundo da programação.
 
   <h2> 🛠️ Ferramentas Favoritas: </h2>
   <img width="500px" src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,github,gitlab,bash,discord,postman,linux,aws" />
-
-#
+<hr />
 <p> <img src="https://komarev.com/ghpvc/?username=zeneiltongpdev&label=Profile%20views&color=9c28d4&style=flat" alt="zeneiltongpdev" /> </p>
 
 # Entre em Contato Comigo!
