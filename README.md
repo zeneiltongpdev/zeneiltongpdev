@@ -4,8 +4,8 @@
   <h2>E você está no meu perfil 😃, seja muito bem-vindo(a)</h2>
 
   <div align=right>
-    <a href="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/README.md"><img width="50px" src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/icons/brazil-flag.gif?raw=true"></a>
-    <a href="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/README_english.md"><img width="50px" src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/icons/united-states.gif?raw=true"></a>
+    <a href="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/README.md"><img width="30px" src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/icons/brazil-flag.gif?raw=true"></a>
+    <a href="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/README_english.md"><img width="30px" src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/icons/united-states.gif?raw=true"></a>
   </div>
   
   <h3>Um pouco sobre mim:</h3>
