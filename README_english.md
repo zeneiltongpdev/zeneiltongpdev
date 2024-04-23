@@ -1,14 +1,15 @@
-<div align="center">
-  
+<div align="center">  
    <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Zeneilton!</h1>
    <h2>And you are on my profile 😃, welcome</h2>
+</div>
 
-   <h3>A little about me:</h3>
-  
-   <img src="https://readme-typing-svg.demolab.com/?lines=Developer%20Full%20Stack;Experiences%20Basic%20 of %20User%20UI/UX;More%20of%203%20Years%20of%20Experience%20Coding;And%20Always%20Learning%20New%20Technologies&font=Ubuntu&left=true&width=1000&height=70&color=9c28d4&vCenter=true&pause=500&size=32">
-  
-   <a href="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/README.md"><img width="50px" src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/icons/brazil-flag.gif?raw=true"></a>
-   <a href="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/README_english.md"><img width="50px" src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/icons/united-states.gif?raw=true"></a>
+<div align="right">
+   <a href="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/README.md"><img width="30px" src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/icons/brazil-flag.gif?raw=true"></a>
+   <a href="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/README_english.md"><img width="30px" src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/icons/united-states.gif?raw=true"></a>
+</div>
+
+<div align="center">
+  <h3>A little about me:</h3>
 
 ```
 👨‍🎓 I'm a Systems Analysis and Development student at Estácio de Sá University, passionate about technology
@@ -25,7 +26,10 @@ Additionally, I completed a bootcamp by the company Nearx Innovation School - Bo
 TypeScript, PostgreSQL, Java Spring and Spring Boot. I continue to seek to improve myself to become a high-quality programmer.
 level and I'm ready to face challenges in the world of programming.
 ```
-##
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Developer%20Full%20Stack;Experiences%20Basic%20 of %20User%20UI/UX;More%20of%203%20Years%20of%20Experience%20Coding;And%20Always%20Learning%20New%20Technologies&font=Ubuntu&left=true&width=1000&height=70&color=9c28d4&vCenter=true&pause=500&size=32">
+
+<hr>
 
    ## [Class Teacher at the Programmers Server - (Join Us)](https://discord.gg/servidordosprogramadores) 📚👨🏽‍🏫
 
