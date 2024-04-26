@@ -50,10 +50,9 @@ nível e estou pronto para enfrentar desafios no mundo da programação.
 
   <h2> 🛠️ Ferramentas Favoritas: </h2>
   <img width="500px" src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,github,bash,discord,postman,linux,aws" />
-<hr />
-<p> <img src="https://komarev.com/ghpvc/?username=zeneiltongpdev&label=Profile%20views&color=9c28d4&style=flat" alt="zeneiltongpdev" /> </p>
-
+  
 <hr>
+<p> <img src="https://komarev.com/ghpvc/?username=zeneiltongpdev&label=Profile%20views&color=9c28d4&style=flat" alt="zeneiltongpdev" /> </p>
 
 # Entre em Contato Comigo!
 
