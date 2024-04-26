@@ -53,6 +53,8 @@ nível e estou pronto para enfrentar desafios no mundo da programação.
 <hr />
 <p> <img src="https://komarev.com/ghpvc/?username=zeneiltongpdev&label=Profile%20views&color=9c28d4&style=flat" alt="zeneiltongpdev" /> </p>
 
+<hr>
+
 # Entre em Contato Comigo!
 
   <a href="https://www.linkedin.com/in/zeneilton-granja/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
