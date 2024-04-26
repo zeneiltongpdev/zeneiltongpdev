@@ -45,15 +45,15 @@ level and I'm ready to face challenges in the world of programming.
    ## Some languages I have studied so far! 😃
   
    <h2> 💻 As a Frontend Developer: </h2>
-   <img width="500px" src="https://skillicons.dev/icons?i=react,next,vite,redux,materialui,javascript,typescript,styledcomponents,sass,css,html,git" />
-
+    <img width="500px" src="https://skillicons.dev/icons?i=next,react,redux,materialui,typescript,tailwind,css,html,git" />
+   
    <h2> 🚪 As a Backend Developer: </h2>
-   <img width="500px" src="https://skillicons.dev/icons?i=nodejs,sequelize,prisma,mysql,postgresql,mongodb,firebase,java,spring,php" />
+    <img width="500px" src="https://skillicons.dev/icons?i=nodejs,nestjs,docker,mysql,postgresql,mongodb,firebase,java,spring" />
 
    <h2> 🛠️ Favorite Tools: </h2>
-   <img width="500px" src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,github,gitlab,bash,discord,postman,linux,aws" />
+    <img width="500px" src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,github,bash,discord,postman,linux,aws" />
 
-#
+<hr>
 <p> <img src="https://komarev.com/ghpvc/?username=zeneiltongpdev&label=Profile%20views&color=9c28d4&style=flat" alt="zeneiltongpdev" /> </p>
 
 # Contact Me!
