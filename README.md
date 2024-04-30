@@ -38,6 +38,8 @@ nível e estou pronto para enfrentar desafios no mundo da programação.
 
   ![contrib graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
+  ![Snake animation](https://github.com/zeneiltongpdev/zeneiltongpdev/blob/output/github-contribution-grid-snake.svg)
+
   <a href="https://wakatime.com/@5b16e0ec-6419-487c-9792-82c9468dd942"><img src="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792-82c9468dd942.svg" alt="Total time coded since Mar 18 2023" /></a>
   
   ## Algumas Linguagens que tenho estudado até aqui! 😃
