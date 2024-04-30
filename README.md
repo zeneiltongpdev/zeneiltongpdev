@@ -39,9 +39,8 @@ nível e estou pronto para enfrentar desafios no mundo da programação.
   ![contrib graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
   <img src="https://raw.githubusercontent.com/zeneiltongpdev/zeneiltongpdev/output/github-contribution-grid-snake-dark.svg">
+  <hr />
 
-  <a href="https://wakatime.com/@5b16e0ec-6419-487c-9792-82c9468dd942"><img src="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792-82c9468dd942.svg" alt="Total time coded since Mar 18 2023" /></a>
-  
   ## Algumas Linguagens que tenho estudado até aqui! 😃
   
   <h2> 💻 Como Desenvolvedor Frontend: </h2>
@@ -53,13 +52,15 @@ nível e estou pronto para enfrentar desafios no mundo da programação.
   <h2> 🛠️ Ferramentas Favoritas: </h2>
   <img width="500px" src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,github,bash,discord,postman,linux,aws" />
   
-<hr>
-<p> <img src="https://komarev.com/ghpvc/?username=zeneiltongpdev&label=Profile%20views&color=9c28d4&style=flat" alt="zeneiltongpdev" /> </p>
+  <hr>
 
-# Entre em Contato Comigo!
+  <p> <img src="https://komarev.com/ghpvc/?username=zeneiltongpdev&label=Profile%20views&color=9c28d4&style=flat" alt="zeneiltongpdev" /> </p>
+  <a href="https://wakatime.com/@5b16e0ec-6419-487c-9792-82c9468dd942"><img src="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792-82c9468dd942.svg" alt="Total time coded since Mar 18 2023" /></a>
+
+  # Entre em Contato Comigo!
 
   <a href="https://www.linkedin.com/in/zeneilton-granja/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://wa.me/5587991460246?text=Olá!%20Deixe%20uma%20mensagem%20para%20o%20DevZen!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="mailto:zeneiltongranja@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c28d4&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c28d4&height=120&section=footer"/>
 </div>  
