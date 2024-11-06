@@ -12,7 +12,7 @@
   <h3>Um pouco sobre mim:</h3>
   
 ```
-👨‍🎓 Sou um estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá, apaixonado por tecnologia
+👨‍🎓 Sou um estudante de Análise e Desenvolvimento de Sistemas na Unimar - Universidade de Marília - SP, apaixonado por tecnologia
 e programação desde 2012, quando comecei meu curso de TIC noInstituto Federal do Sertão Pernambucano (IFPE).
 Lá, aprendi HTML, CSS e Java.
 
