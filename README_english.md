@@ -12,7 +12,7 @@
    <h3>A little about me:</h3>
    
    ```
-   👨‍🎓 I'm a Systems Analysis and Development student at Estácio de Sá University, passionate about technology
+   👨‍🎓 I'm a Systems Analysis and Development student at Unimar - Marília University, passionate about technology
    and programming since 2012, when I started my ICT course at the Instituto Federal do Sertão Pernambucano (IFPE).
    There, I learned HTML, CSS and Java.
    
