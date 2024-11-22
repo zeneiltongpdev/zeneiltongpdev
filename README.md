@@ -33,14 +33,14 @@ nível e estou pronto para enfrentar desafios no mundo da programação.
   
   ## [Professor da Turma no Servidor dos Programadores - (Junte-se a Nós)](https://discord.gg/servidordosprogramadores) 📚👨🏽‍🏫
   
-  <img src="https://raw.githubusercontent.com/zeneiltongpdev/zeneiltongpdev/output/github-contribution-grid-snake-dark.svg">
+ <!-- <img src="https://raw.githubusercontent.com/zeneiltongpdev/zeneiltongpdev/output/github-contribution-grid-snake-dark.svg"> -->
   
   [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/646943cf410780a6d9ba4fb2?variant=dark&roadmaps=blockchain%2Cbackend%2Ctypescript)](https://roadmap.sh)
 
   <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeneiltongpdev&show_icons=true&theme=radical&layout=compact&locale=en&langs_count=10&hide_border=true"/>
   <img width="485em" src="https://streak-stats.demolab.com?user=zeneiltongpdev&theme=radical&hide_border=true" /> <br />
 
-  ![contrib graph](./profile-3d-contrib/profile-night-rainbow.svg)
+<!--![contrib graph](./profile-3d-contrib/profile-night-rainbow.svg) -->
 
   <hr />
 
