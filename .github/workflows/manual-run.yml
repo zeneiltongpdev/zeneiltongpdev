@@ -13,14 +13,14 @@ jobs:
     steps:
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ github.MY_GITHUB_USER_NAME }}
           outputs: |
             dist/only-svg/github-contribution-grid-snake.svg
             dist/only-svg/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ github.MY_GITHUB_USER_NAME }}
           outputs: |
             dist/docker/github-contribution-grid-snake.svg
             dist/docker/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -42,4 +42,4 @@ jobs:
           target_branch: manual-run-output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
