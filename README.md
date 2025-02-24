@@ -67,7 +67,7 @@ nível e estou pronto para enfrentar desafios no mundo da programação.
   # Entre em Contato Comigo!
 
   <a href="https://www.linkedin.com/in/zeneiltongpdev/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://wa.me/5587997476190?text=Olá!%20Deixe%20uma%20mensagem%20para%20o%20DevZeny!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://wa.me/5518997476190?text=Olá!%20Deixe%20uma%20mensagem%20para%20o%20devZeny!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="mailto:zeneiltongranja@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c28d4&height=120&section=footer"/>
 </div>  
