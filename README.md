@@ -27,22 +27,26 @@ TypeScript, PostgreSQL, Java Spring e Spring Boot. Continuo buscando me aprimora
 nível e estou pronto para enfrentar desafios no mundo da programação.
 ```
     
-  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20Full%20Stack;Experiêcias%20Básicas%20do%20Usúario%20UI/UX;Mais%20de%203%20%20Anos%20%20de%20Experiência%20Codando;Sempre%20Aprendendo%20Novas%20Tecnologias&font=Ubuntu&left=true&width=1000&height=70&color=9c28d4&vCenter=true&pause=500&size=32">
+<img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20Full%20Stack;Experiêcias%20Básicas%20do%20Usúario%20UI/UX;Mais%20de%203%20%20Anos%20%20de%20Experiência%20Codando;Sempre%20Aprendendo%20Novas%20Tecnologias&font=Ubuntu&left=true&width=1000&height=70&color=9c28d4&vCenter=true&pause=500&size=32">
   
-  <hr />
+<hr />
   
-  ## [Professor da Turma no Servidor dos Programadores - (Junte-se a Nós)](https://discord.gg/servidordosprogramadores) 📚👨🏽‍🏫
+## [Professor da Turma no Servidor dos Programadores - (Junte-se a Nós)](https://discord.gg/servidordosprogramadores) 📚👨🏽‍🏫
   
- <!-- <img src="https://raw.githubusercontent.com/zeneiltongpdev/zeneiltongpdev/output/github-contribution-grid-snake-dark.svg"> -->
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/646943cf410780a6d9ba4fb2?variant=dark&roadmaps=frontend%2Cfull-stack%2Cbackend%2Ctypescript)](https://roadmap.sh)
+<img width="482px" src="https://streak-stats.demolab.com?user=zeneiltongpdev&theme=radical&hide_border=true" /> <br />
+<!--<img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeneiltongpdev&show_icons=true&theme=radical&layout=compact&locale=en&langs_count=10&hide_border=true"/> -->
   
-  [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/646943cf410780a6d9ba4fb2?variant=dark&roadmaps=blockchain%2Cbackend%2Ctypescript)](https://roadmap.sh)
+![contrib graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
-  <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeneiltongpdev&show_icons=true&theme=radical&layout=compact&locale=en&langs_count=10&hide_border=true"/>
-  <img width="485em" src="https://streak-stats.demolab.com?user=zeneiltongpdev&theme=radical&hide_border=true" /> <br />
+<div align="left" >
+  <sup>
+  
+  [Link Graph Profile](https://github.com/marketplace/actions/github-profile-3d-contrib)
+  </sup>
+</div>
 
-<!--![contrib graph](./profile-3d-contrib/profile-night-rainbow.svg) -->
-
-  <hr />
+<hr />
 
   ## Algumas Linguagens que tenho estudado até aqui! 😃
   
@@ -57,13 +61,13 @@ nível e estou pronto para enfrentar desafios no mundo da programação.
   
   <hr>
 
-  <p> <img src="https://komarev.com/ghpvc/?username=zeneiltongpdev&label=Profile%20views&color=9c28d4&style=flat" alt="zeneiltongpdev" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=zeneiltongpdev&label=Profile%20views&color=9c28d4&style=flat" alt="zeneiltongpdev" />
   <a href="https://wakatime.com/@5b16e0ec-6419-487c-9792-82c9468dd942"><img src="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792-82c9468dd942.svg" alt="Total time coded since Mar 18 2023" /></a>
 
   # Entre em Contato Comigo!
 
   <a href="https://www.linkedin.com/in/zeneiltongpdev/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://wa.me/5587991460246?text=Olá!%20Deixe%20uma%20mensagem%20para%20o%20DevZen!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://wa.me/5587997476190?text=Olá!%20Deixe%20uma%20mensagem%20para%20o%20DevZeny!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="mailto:zeneiltongranja@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c28d4&height=120&section=footer"/>
 </div>  
