@@ -26,6 +26,8 @@ Além disso, completei um bootcamp pela empresa Nearx Innovation School - Bootca
 TypeScript, PostgreSQL, Java Spring e Spring Boot. Continuo buscando me aprimorar para me tornar um programador de alto
 nível e estou pronto para enfrentar desafios no mundo da programação.
 ```
+<img src="https://raw.githubusercontent.com/USER-NAME-HERE/USER-NAME-HERE/output/github-contribution-grid-snake-dark.svg">
+
 <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20Full%20Stack;Experiêcias%20Básicas%20do%20Usúario%20UI/UX;Mais%20de%203%20%20Anos%20%20de%20Experiência%20Codando;Sempre%20Aprendendo%20Novas%20Tecnologias&font=Ubuntu&left=true&width=1000&height=70&color=9c28d4&vCenter=true&pause=500&size=32">
   
 <hr />
