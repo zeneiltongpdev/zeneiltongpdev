@@ -1,5 +1,5 @@
 <div align="center">  
-  <h1>Oi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Eu sou o Zeneilton!</h1>
+  <h1>Oi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, Eu sou o Zeneilton!</h1>
   <h2>E você está no meu perfil 😃, seja muito bem-vindo(a)</h2>
 </div>
 
