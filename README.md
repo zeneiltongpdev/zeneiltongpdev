@@ -39,7 +39,7 @@ nível e estou pronto para enfrentar desafios no mundo da programação.
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=zeneiltongpdev" alt="GitHub Streak" />
 </a>
-<img width="482px" src="https://streak-stats.demolab.com?user=zeneiltongpdev&theme=radical&hide_border=true" />
+<!--<img width="482px" src="https://streak-stats.demolab.com?user=zeneiltongpdev&theme=radical&hide_border=true" />-->
 <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeneiltongpdev&show_icons=true&theme=radical&layout=compact&locale=en&langs_count=10&hide_border=true"/>
   
 ![contrib graph](./profile-3d-contrib/profile-night-rainbow.svg)
