@@ -26,7 +26,7 @@
 -->
 <div align="center">
 
-## [Professor da Turma no Servidor dos Programadores - Junte-se a Nós](https://discord.gg/servidordosprogramadores) 📚👨🏽‍🏫
+## [Servidor dos Programadores - Junte-se a Nós](https://discord.gg/servidordosprogramadores) 📚👨🏽‍🏫
 </div>
 <br>
 
