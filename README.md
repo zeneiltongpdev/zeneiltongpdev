@@ -27,10 +27,9 @@
   </a>
 </div>
 <div align="center">-->
-
-## [Servidor dos Programadores - Junte-se a Nós](https://discord.gg/servidordosprogramadores) 📚👨🏽‍🏫
-</div>
-<br>
+<br />
+<h2><a href="https://discord.gg/servidordosprogramadores"><b>Servidor dos Programadores - Junte-se a Nós 📚👨🏽‍🏫</b></a></h2>
+<br />
 
 ## 📊 Estatísticas do GitHub e Roadmaps
 
