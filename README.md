@@ -12,19 +12,21 @@
 
 👨‍💻 Sou um desenvolvedor apaixonado por tecnologia e inovação. Meu objetivo é criar soluções eficientes e escaláveis para resolver problemas reais. Estou sempre aprendendo e buscando aprimorar minhas habilidades.
 
+<img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20Full%20Stack;Experiêcias%20Básicas%20do%20Usúario%20UI/UX;Mais%20de%205%20%20Anos%20%20de%20Experiência%20Codando;Sempre%20Aprendendo%20Novas%20Tecnologias&font=Ubuntu&left=true&width=600&height=50&color=9c28d4&vCenter=true&pause=500&size=32">
+
+<br clear="both">
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/8356174?s=400&u=9c16b18bad3e0d5cc9a7e94982e7a3b4e22e807e&v=4"  />
+
 🔭 Atualmente trabalhando em: **[EduNexus](#)**  
 🌱 Aprendendo: **[Desenvolvimento de IA](#)**  
 📫 Entre em contato: **[LinkedIn](https://www.linkedin.com/in/zeneiltongpdev/)**  
 
-<div align="center">  
+<!--<div align="center">  
   <a href="https://github.com/zeneiltongpdev">
     <img src="https://raw.githubusercontent.com/zeneiltongpdev/zeneiltongpdev/output/github-contribution-grid-snake-dark.svg">
   </a>
 </div>
-<!--
-<img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20Full%20Stack;Experiêcias%20Básicas%20do%20Usúario%20UI/UX;Mais%20de%203%20%20Anos%20%20de%20Experiência%20Codando;Sempre%20Aprendendo%20Novas%20Tecnologias&font=Ubuntu&left=true&width=1000&height=70&color=9c28d4&vCenter=true&pause=500&size=32">
--->
-<div align="center">
+<div align="center">-->
 
 ## [Servidor dos Programadores - Junte-se a Nós](https://discord.gg/servidordosprogramadores) 📚👨🏽‍🏫
 </div>
@@ -36,18 +38,7 @@
 <a href="https://github.com/zeneiltongpdev">
   <img width="482px" src="https://streak-stats.demolab.com?user=zeneiltongpdev&theme=radical&hide_border=true" alt="GitHub Streak" />
 </a>
-<!--<img width="482px" src="https://streak-stats.demolab.com?user=zeneiltongpdev&theme=radical&hide_border=true" />
-  <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeneiltongpdev&show_icons=true&theme=radical&layout=compact&locale=en&langs_count=10&hide_border=true"/>
--->
-<!-- ![contrib graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<div align="left" >
-  <sup>
-  
-  [Link Graph Profile](https://github.com/marketplace/actions/github-profile-3d-contrib)
-  </sup>
-</div>
--->
 <hr>
 
 ## 🛠️ Tecnologias & Ferramentas
@@ -66,7 +57,7 @@
 🔹 **[HomeBroker](#)** - Breve descrição do projeto e sua funcionalidade (Repositório em Breve).  
 🔹 **[CodeFlix](#)** - Simulação do NetFlix (Repositório em Breve).  
 
-🔗 Veja todos os meus projetos no meu [portfólio completo](#)!
+🔗 Veja todos os meus projetos no meu [portfólio completo](https://zeneiltongp.dev)!
 
 <hr>
 
