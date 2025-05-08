@@ -22,7 +22,7 @@
   </a>
 </div>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer;Basic%20UI/UX%20Experience;Over%203%20Years%20of%20Coding%20Experience;Always%20Learning%20New%20Technologies&font=Ubuntu&left=true&width=1000&height=70&color=9c28d4&vCenter=true&pause=500&size=32">
+<img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer;Basic%20UI/UX%20Experience;Over%205%20Years%20of%20Coding%20Experience;Always%20Learning%20New%20Technologies&font=Ubuntu&left=true&width=1000&height=70&color=9c28d4&vCenter=true&pause=500&size=32">
 
 <div align="center">
 
