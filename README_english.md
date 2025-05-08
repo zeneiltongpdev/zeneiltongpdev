@@ -30,14 +30,16 @@
 </div>
 <br>
 
+<!--
 ## 📊 GitHub Stats & Roadmaps
+
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/646943cf410780a6d9ba4fb2?variant=dark&roadmaps=frontend%2Cfull-stack%2Cbackend%2Ctypescript)](https://roadmap.sh)
 <a href="https://github.com/zeneiltongpdev">
   <img width="482px" src="https://streak-stats.demolab.com?user=zeneiltongpdev&theme=radical&hide_border=true" alt="GitHub Streak" />
 </a>
 
-<hr>
+-->
 
 ## 🛠️ Technologies & Tools
 
