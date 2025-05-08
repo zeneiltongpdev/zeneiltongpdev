@@ -31,6 +31,7 @@
 <h2><a href="https://discord.gg/servidordosprogramadores"><b>Servidor dos Programadores - Junte-se a Nós 📚👨🏽‍🏫</b></a></h2>
 <br />
 
+<!--
 ## 📊 Estatísticas do GitHub e Roadmaps
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/646943cf410780a6d9ba4fb2?variant=dark&roadmaps=frontend%2Cfull-stack%2Cbackend%2Ctypescript)](https://roadmap.sh)
@@ -38,7 +39,7 @@
   <img width="482px" src="https://streak-stats.demolab.com?user=zeneiltongpdev&theme=radical&hide_border=true" alt="GitHub Streak" />
 </a>
 
-<hr>
+-->
 
 ## 🛠️ Tecnologias & Ferramentas
 
