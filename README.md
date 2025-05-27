@@ -44,7 +44,7 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,typescript,postgresql,mongodb,java,spring,docker,git,github" width="85%"/> <br><br>
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,git,github,typescript,next,tailwind,nodejs,nest,express,postgresql,mongodb,html,css" width="85%"/> <br><br>
   <a href="https://github.com/zeneiltongpdev"><img src="https://komarev.com/ghpvc/?username=zeneiltongpdev&label=Profile%20views&color=9c28d4&style=flat" alt="zeneiltongpdev"/></a>
   <a href="https://wakatime.com/@5b16e0ec-6419-487c-9792-82c9468dd942"><img src="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792-82c9468dd942.svg" alt="Total time coded since Mar 18 2023" /></a>
 </div>
