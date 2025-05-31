@@ -31,16 +31,40 @@
 <h2><a href="https://discord.gg/servidordosprogramadores"><b>Servidor dos Programadores - Junte-se a Nós 📚👨🏽‍🏫</b></a></h2>
 <br />
 
-<!--
+<div align="center">
+<h2>🛠️ Tecnologias & Ferramentas</h2>
+
+<table style="width:100%">
+  <tr>
+    <td>Frontend</td>
+    <td>Backend</td>
+    <td>DevOps</td>
+  </tr>
+  <tr align="center">
+    <td><img src="https://skillicons.dev/icons?i=next" width="85%"/></td>
+    <td><img src="https://skillicons.dev/icons?i=java" width="85%"/></td>
+    <td><img src="https://skillicons.dev/icons?i=docker" width="85%"/></td>
+  </tr>
+  <tr align="center">
+    <td><img src="https://skillicons.dev/icons?i=nodejs" width="85%"/></td>
+    <td><img src="https://skillicons.dev/icons?i=spring" width="85%"/></td>
+    <td><img src="https://skillicons.dev/icons?i=bash" width="85%"/></td>
+  </tr>
+</table>
+
+<a href="https://github.com/zeneiltongpdev"><img src="https://komarev.com/ghpvc/?username=zeneiltongpdev&label=Profile%20views&color=9c28d4&style=flat" alt="zeneiltongpdev"/></a>
+<a href="https://wakatime.com/@5b16e0ec-6419-487c-9792-82c9468dd942"><img src="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792-82c9468dd942.svg" alt="Total time coded since Mar 18 2023" /></a>
+</div>
+
 ## 📊 Estatísticas do GitHub e Roadmaps
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/646943cf410780a6d9ba4fb2?variant=dark&roadmaps=frontend%2Cfull-stack%2Cbackend%2Ctypescript)](https://roadmap.sh)
+
 <a href="https://github.com/zeneiltongpdev">
-  <img width="482px" src="https://streak-stats.demolab.com?user=zeneiltongpdev&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="472px" src="https://streak-stats.demolab.com?user=zeneiltongpdev&theme=radical&hide_border=true" alt="GitHub Streak" />
 </a>
 
--->
-
+<!--
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
@@ -50,6 +74,7 @@
 </div>
 
 <hr>
+-->
 
 ## 🚀 Projetos em Destaque
 
