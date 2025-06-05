@@ -14,12 +14,17 @@
   </div>
 </div>
 <br clear="both">
-<img align="right" height="150" border="" src="https://avatars.githubusercontent.com/u/8356174?s=400&u=9c16b18bad3e0d5cc9a7e94982e7a3b4e22e807e&v=4"  />
+<img align="right" height="250" border="" src="https://avatars.githubusercontent.com/u/8356174?s=400&u=9c16b18bad3e0d5cc9a7e94982e7a3b4e22e807e&v=4"  />
 
+🚀 <b>Projetos em Destaque:</b>  
 🔭 Atualmente trabalhando em: **[EduNexus](#)**  
-🌱 Aprendendo: **[Desenvolvimento de IA](#)**  
+🌱 Aprendendo: **[Desenvolvimento de IA - Coursera](https://www.coursera.org/learn/google-ai-essentials)**  
 📫 Entre em contato: **[LinkedIn](https://www.linkedin.com/in/zeneiltongpdev/)**  
+🔗 Veja todos os meus projetos no meu **[Portfólio completo](https://zeneiltongp.dev)!**
 
+🔹 **[SMS CARA](#)** - Uma solução inovadora para Instituições de Ensino (Repositório em Breve).  
+🔹 **[HomeBroker](#)** - Breve descrição do projeto e sua funcionalidade (Repositório em Breve).  
+🔹 **[CodeFlix](#)** - Simulação do NetFlix (Repositório em Breve).  
 <br>
 <h2>📈 Contribuições no GitHub</h2>
   <br>
@@ -38,18 +43,17 @@
   </a>
 
   [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/646943cf410780a6d9ba4fb2?variant=dark&roadmaps=frontend%2Cfull-stack%2Cbackend%2Ctypescript)](https://roadmap.sh)
-  
-  <br>
+  </div>
 
+<h2>📢 Comunidade</h2>
 <div align="center">
-    <h2>📢 Comunidade</h2>
-    <p>Participe da nossa comunidade no Discord, onde você pode interagir com outros desenvolvedores, compartilhar conhecimento e tirar dúvidas!</p>
+  <p>Participe da nossa comunidade no Discord, onde você pode interagir com outros desenvolvedores, compartilhar conhecimento e tirar dúvidas!</p>
 
-[![Discord Server Card](https://cardzera.onrender.com/api/1112920281367973900?t={timestamp})](https://discord.gg/servidordosprogramadores)
+  [![Discord Server Card](https://cardzera.onrender.com/api/1112920281367973900?t={timestamp})](https://discord.gg/servidordosprogramadores)
 </div>
 
+<h2>🛠️ Tecnologias & Ferramentas</h2>
 <div align="center">
-  <h2>🛠️ Tecnologias & Ferramentas</h2>
   <table style="width:100%">
     <tr align="center">
         <td>Frontend</td>
@@ -227,21 +231,10 @@
   <a href="https://wakatime.com/@5b16e0ec-6419-487c-9792-82c9468dd942">
     <img src="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792-82c9468dd942.svg" alt="Total time coded since Mar 18 2023" />
   </a>
-
-<h2>🚀 Projetos em Destaque</h2>
-
-<div align="left">
-  
-🔹 **[SMS CARA](#)** - Uma solução inovadora para Instituições de Ensino (Repositório em Breve).  
-🔹 **[HomeBroker](#)** - Breve descrição do projeto e sua funcionalidade (Repositório em Breve).  
-🔹 **[CodeFlix](#)** - Simulação do NetFlix (Repositório em Breve).  
-
-🔗 Veja todos os meus projetos no meu [portfólio completo](https://zeneiltongp.dev)!
-
 </div>
 
+<h2>📬 Conecte-se Comigo</h2>
 <div align="center">
-  <h2>📬 Conecte-se Comigo</h2>
   <a href="https://www.linkedin.com/in/zeneiltongpdev/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
