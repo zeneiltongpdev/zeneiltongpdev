@@ -35,14 +35,15 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zeneiltongpdev/zeneiltongpdev/output/pacman-contribution-graph.svg">
   </picture>
   <br>
-
+<!--
   <a href="https://github.com/zeneiltongpdev">
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=zeneiltongpdev&show_icons=true&theme=radical&hide_border=true" alt="Zeneilton's GitHub Stats" />
     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeneiltongpdev&layout=compact&theme=radical&hide_border=true" alt="Zeneilton's Top Languages" />
     <img height="150px" src="https://streak-stats.demolab.com?user=zeneiltongpdev&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
-
   [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/646943cf410780a6d9ba4fb2?variant=dark&roadmaps=frontend%2Cfull-stack%2Cbackend%2Ctypescript)](https://roadmap.sh)
+-->
+
   </div>
 
 <h2>📢 Comunidade</h2>
