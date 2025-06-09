@@ -78,6 +78,21 @@
                 <img src="https://skillicons.dev/icons?i=tailwind" width="50" title="Tailwind CSS" alt="Tailwind CSS"/>
             </a>
         </td>
+        <td>
+            <a href="https://jquery.com/">
+                <img src="https://skillicons.dev/icons?i=jquery" width="50" title="jQuery" alt="jQuery"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://jestjs.io/">
+                <img src="https://skillicons.dev/icons?i=jest" width="50" title="Jest" alt="Jest"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://angular.dev/">
+                <img src="https://skillicons.dev/icons?i=angular" width="50" title="Angular" alt="Angular"/>
+            </a>
+        </td>
     </tr>
     <tr align="center">
         <td>Backend</td>
