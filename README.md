@@ -50,9 +50,8 @@
 <div align="center">
   <p>Participe da nossa comunidade no Discord, onde você pode interagir com outros desenvolvedores, compartilhar conhecimento e tirar dúvidas!</p>
 
-### Visit my Dev Community
-[![Discord Server Card](https://cardzera.audibert.dev/api/1112920281367973900?t={timestamp})](https://discord.gg/servidordosprogramadores)
-
+  [![Discord Server Card](https://cardzera.audibert.dev/api/1112920281367973900?t={timestamp})](https://discord.gg/servidordosprogramadores)
+<h2>Visite nossa Comunidade de Programadores</h2>
 </div>
 
 <h2>🛠️ Tecnologias & Ferramentas</h2>
