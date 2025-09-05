@@ -57,46 +57,8 @@
 <h2>🛠️ Tecnologias & Ferramentas</h2>
 <div align="center">
   <table style="width:100%">
+    <th colspan="8">Backend</th>
     <tr align="center">
-        <td>Frontend</td>
-        <td>
-            <a href="https://nextjs.org/">
-                <img src="https://skillicons.dev/icons?i=next" width="50" title="Next.js" alt="Next.js"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://react.dev/">
-                <img src="https://skillicons.dev/icons?i=react" width="50" title="React" alt="React"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://www.typescriptlang.org/">
-                <img src="https://skillicons.dev/icons?i=typescript" width="50" title="TypeScript" alt="TypeScript"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://tailwindcss.com/">
-                <img src="https://skillicons.dev/icons?i=tailwind" width="50" title="Tailwind CSS" alt="Tailwind CSS"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://jquery.com/">
-                <img src="https://skillicons.dev/icons?i=jquery" width="50" title="jQuery" alt="jQuery"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://jestjs.io/">
-                <img src="https://skillicons.dev/icons?i=jest" width="50" title="Jest" alt="Jest"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://angular.dev/">
-                <img src="https://skillicons.dev/icons?i=angular" width="50" title="Angular" alt="Angular"/>
-            </a>
-        </td>
-    </tr>
-    <tr align="center">
-        <td>Backend</td>
         <td>
             <a href="https://www.java.com/">
                 <img src="https://skillicons.dev/icons?i=java" width="50" title="Java" alt="Java"/>
@@ -133,8 +95,46 @@
             </a>
         </td>
     </tr>
+    <th colspan="8">Frontend</th>
     <tr align="center">
-        <td>DevOps</td>
+        <td>
+            <a href="https://nextjs.org/">
+                <img src="https://skillicons.dev/icons?i=next" width="50" title="Next.js" alt="Next.js"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://react.dev/">
+                <img src="https://skillicons.dev/icons?i=react" width="50" title="React" alt="React"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://www.typescriptlang.org/">
+                <img src="https://skillicons.dev/icons?i=typescript" width="50" title="TypeScript" alt="TypeScript"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://tailwindcss.com/">
+                <img src="https://skillicons.dev/icons?i=tailwind" width="50" title="Tailwind CSS" alt="Tailwind CSS"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://jquery.com/">
+                <img src="https://skillicons.dev/icons?i=jquery" width="50" title="jQuery" alt="jQuery"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://jestjs.io/">
+                <img src="https://skillicons.dev/icons?i=jest" width="50" title="Jest" alt="Jest"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://angular.dev/">
+                <img src="https://skillicons.dev/icons?i=angular" width="50" title="Angular" alt="Angular"/>
+            </a>
+        </td>
+    </tr>
+    <th colspan="8">DevOps</td>
+    <tr align="center">
         <td>
             <a href="https://git-scm.com/">
                 <img src="https://skillicons.dev/icons?i=git" width="50" title="Git" alt="Git"/>
@@ -171,8 +171,12 @@
             </a>
         </td>
     </tr>
+    <th colspan="8">SGBD</td>
     <tr align="center">
-        <td>SGBD</td>
+        <td>
+            <a>
+            </a>
+        </td>
         <td>
             <a href="https://www.mysql.com/">
                 <img src="https://skillicons.dev/icons?i=mysql" width="50" title="MySQL" alt="MySQL"/>
@@ -181,6 +185,10 @@
         <td>
             <a href="https://www.mongodb.com/">
                 <img src="https://skillicons.dev/icons?i=mongo" width="50" title="MongoDB" alt="MongoDB"/>
+            </a>
+        </td>
+        <td>
+            <a>
             </a>
         </td>
         <td>
@@ -193,9 +201,13 @@
                 <img src="https://skillicons.dev/icons?i=postgresql" width="50" title="PostgreSQL" alt="PostgreSQL"/>
             </a>
         </td>
+        <td>
+            <a>
+            </a>
+        </td>
     </tr>
+    <th colspan="8">Tools</td>
     <tr align="center">
-        <td>Tools</td>
         <td>
             <a href="https://code.visualstudio.com/">
                 <img src="https://skillicons.dev/icons?i=vscode" width="50" title="VSCode" alt="VSCode"/>
@@ -222,21 +234,46 @@
             </a>
         </td>
         <td>
+            <a href="https://azure.microsoft.com/">
+                <img src="https://skillicons.dev/icons?i=azure" width="50" title="AWS" alt="AWS"/>
+            </a>
+        </td>
+        <td>
             <a href="https://github.com/">
                 <img src="https://skillicons.dev/icons?i=github" width="50" title="GitHub" alt="GitHub"/>
             </a>
         </td>
     </tr>
+    <th colspan="8">SO</td>
     <tr align="center">
-        <td>SO</td>
+        <td>
+            <a>
+            </a>
+        </td>
+        <td>
+            <a>
+            </a>
+        </td>
         <td>
             <a href="https://www.linux.org/">
                 <img src="https://skillicons.dev/icons?i=linux" width="50" title="Linux" alt="Linux"/>
             </a>
         </td>
         <td>
+            <a>
+            </a>
+        </td>
+        <td>
             <a href="https://www.microsoft.com/windows">
                 <img src="https://skillicons.dev/icons?i=windows" width="50" title="Windows" alt="Windows"/>
+            </a>
+        </td>
+        <td>
+            <a>
+            </a>
+        </td>
+        <td>
+            <a>
             </a>
         </td>
     </tr>
