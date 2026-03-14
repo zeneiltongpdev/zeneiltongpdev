@@ -8,11 +8,9 @@
       <img src="https://img.shields.io/badge/🇺🇸%20EN-gray?style=for-the-badge&logo=github&logoColor=white" alt="English"/>
     </a>
   </div>
-
-  <a href="https://github.com/zeneiltongpdev">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&height=250&color=transparent&text=Zeneilton%20Granja&animation=twinkling&fontAlign=50&fontAlignY=30&textBg=true&fontSize=60&rotate=0&desc=☕%20FullCycle%20Java%20AI%20Engineer&descAlignY=45&reversal=false&descSize=20&fontColor=ffffff&descAlign=62" alt="Header - Zeneilton Gomes | Backend Engineer"/>
-  </a>
-
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:4c1d8f,6b21a8,9c28d4&height=200&section=top&reversal=true&text=Zeneilton%20Granja&animation=twinkling&fontAlign=50&fontAlignY=30&textBg=false&fontSize=60&rotate=0&desc=☕%20FullCycle%20Java%20AI%20Engineer&descAlignY=45&reversal=false&descSize=20&fontColor=ffffff&descAlign=62" alt="Header - Zeneilton Granja | Backend Engineer"/>
+  
   <br clear="both"/>
   <img align="right" height="220" style="border-radius: 20px; border: 4px solid #9c28d4; box-shadow: 0 8px 32px rgba(156,40,212,0.3);" src="https://avatars.githubusercontent.com/u/8356174?s=400&u=9c16b18bad3e0d5cc9a7e94982e7a3b4e22e807e&v=4" alt="Zeneilton Granja - Backend Engineer"/>
 
@@ -262,7 +260,8 @@
 <br/>
 
 <small>
-<i>Feito com 💜 e café ☕ | © 2026 Zeneilton Gomes</i><br/>
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" width="120" alt="Built with Love"/>
+<i>Feito com café ☕ e códigos | © 2026 Zeneilton Granja</i><br/>
+<!-- <img src="https://forthebadge.com/images/badges/built-with-love.svg" width="180" alt="Built with Coffee"/> -->
 </small>
+<!-- [![forthebadge](data:image/svg+xml;base64,PHN2ZyBkYXRhLXYtM2M4N2I3YjQ9IiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjE3IiBoZWlnaHQ9IjM1IiB2aWV3Qm94PSIwIDAgMjE3IDM1IiBjbGFzcz0iYmFkZ2Utc3ZnIj48ZGVmcyBkYXRhLXYtM2M4N2I3YjQ9IiI+PCEtLS0tPjwhLS0tLT48IS0tLS0+PC9kZWZzPjxyZWN0IGRhdGEtdi0zYzg3YjdiND0iIiB3aWR0aD0iMTEwLjY1NjI1IiBoZWlnaHQ9IjM1IiBmaWxsPSIjMzFDNEYzIi8+PHJlY3QgZGF0YS12LTNjODdiN2I0PSIiIHg9IjExMC42NTYyNSIgd2lkdGg9IjEwNi4zNDM3NSIgaGVpZ2h0PSIzNSIgZmlsbD0iIzM4OUFENSIvPjwhLS0tLT48dGV4dCBkYXRhLXYtM2M4N2I3YjQ9IiIgeD0iNTUuMzI4MTI1IiB5PSIxNy41IiBkeT0iMC4zNWVtIiBmb250LXNpemU9IjEyIiBmb250LWZhbWlseT0iUm9ib3RvLCBzYW5zLXNlcmlmIiBmaWxsPSIjRkZGRkZGIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBsZXR0ZXItc3BhY2luZz0iMiIgZm9udC13ZWlnaHQ9IjYwMCIgZm9udC1zdHlsZT0ibm9ybWFsIiB0ZXh0LWRlY29yYXRpb249Im5vbmUiIGZpbGwtb3BhY2l0eT0iMSIgZm9udC12YXJpYW50PSJub3JtYWwiIHN0eWxlPSJ0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlOyI+QlVJTEQgV0lUSDwvdGV4dD48ZyBkYXRhLXYtM2M4N2I3YjQ9IiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTIwLjY1NjI1LCA5LjUpIHNjYWxlKDAuNjY2NjY2NjY2NjY2NjY2NikiPjxwYXRoIGRhdGEtdi0zYzg3YjdiND0iIiBkPSJNNC42NDUgNy40NzJjMi4xLjUzIDQuNzc5LjggOC4wMDguOCAzLjI5OSAwIDUuOTE4LS4yNyA4LjAwOC0uOCAyLjIzLS41MiAzLjI5OS0xLjIyIDMuMjk5LTEuODggMC0uNDctLjQ4LS45My0xLjM1LTEuMjguMi4xMy4zNS4zNS4zNS41OSAwIC42Ny0xLjAxIDEuMjItMy4wMzkgMS42OC0xLjg4LjQxLTQuMjc5LjctNy4xOTguNy0yLjgyIDAtNS4zMjktLjI5LTcuMTM4LS42OC0xLjk1LS40OC0yLjk3LTEtMi45Ny0xLjY4IDAtLjI4LjEzLS41Mi41Mi0uOC0xLjIyLjQ3LTEuODguODctMS44OCAxLjQ3LjA3LjY4IDEuMTYgMS4zNiAzLjM5IDEuODh6bTQuNjg5LTIuMTZjMi4yNy0uMiAyLjkyOS0xLjY1OSA1LjU4OC0xLjg5OSAxLjMxLS4xIDIuMTQuMTYgMi4yMy42Mi4wOC40My0uNTcuNzItMS4zNi43OC0xLjA5LjExLTEuNTQtLjI4LTEuNjMtLjY1LS44MS4wOS0uOTQuNDMtLjkuNjcuMDkuNDYgMS4wNy45MiAyLjc1Ljc2IDEuOS0uMTUgMi41NC0uOSAyLjM4LTEuNjUtLjItLjk4LTEuNjYtMS44LTQuMjgtMS41NS0zLjM1OS4zLTMuMzM5IDEuODYtNS42MjggMi4wNS0uOTQuMDktMS40Ni0uMTMtMS41NS0uNS0uMDYtLjM3LjQtLjU1Ljk0LS41OS41LS4wNSAxLjExLjA0IDEuNC4yLjIxLS4xMS4yOC0uMjIuMjYtLjM1LS4xLS4zNS0uNzktLjUtMS42Ni0uNDQtMS43LjE1LTEuNy45MS0xLjY0IDEuMjUuMTcuODcgMS40OCAxLjQ1IDMuMSAxLjN6bTExLjQxNyAzLjg0Yy0yLjEuNDktNC43NzkuODA5LTguMDA4LjgwOS0zLjMgMC01Ljk4OS0uMzQtOC4wNzgtLjgtMS44OC0uNDgtMi44OC0xLjAxLTMuMjMtMS41Ni4xOCAxLjIzLjQ5IDIuNDIuODkgMy41NS0uNDguMy0uOTEuNjctMS4zIDEuMTdhNC41MTkgNC41MTkgMCAwMC0xLjAxOSAzLjA5OCAzLjYgMy41OTkgMCAwMDEuNDIgMi42MmMuODcuNjggMS44MS44OCAyLjg3OS42OC40MS0uMDcuODctLjI4IDEuMjktLjQyLS44OCAwLTEuNjItLjI4LTIuMzYtLjg3YTMuNTUgMy41NDkgMCAwMS0xLjQ5LTIuNDJjLS4yLS45NCAwLTEuODEuNTMtMi41NzkuMTItLjE1LjI1LS4yOC4zOS0uNC4zLjczLjYyIDEuNDUuOTggMi4xMi44MSAxLjIzIDEuNjIgMi4yOTkgMi40MyAzLjQ1OS4zNS42OC41OCAxLjM1Ljc0IDIuMDE5YTMuODk5IDMuODk5IDAgMDAyLjIyOSAxLjVjMS4xNS40IDIuMzUuNTggMy41NzkuNTFoLjEzYTEwLjE5NyAxMC4xOTcgMCAwMDMuNjg5LS41MiA0LjE3OSA0LjE3OSAwIDAwMi4xNi0xLjQ5aC4wN2MuMTMtLjY3LjM1LTEuMzQuNjctMi4wMi43OTktMS4xNyAxLjYxOS0yLjIyOSAyLjQxOS0zLjQ1OEEyMC45OTUgMjAuOTkzIDAgMDAyNCA3LjYxMmMtLjQzLjYtMS40NCAxLjEzLTMuMjUgMS41NHoiIGZpbGw9IiNGRkZGRkYiLz48L2c+PHRleHQgZGF0YS12LTNjODdiN2I0PSIiIHg9IjE3My44MjgxMjUiIHk9IjE3LjUiIGR5PSIwLjM1ZW0iIGZvbnQtc2l6ZT0iMTIiIGZvbnQtZmFtaWx5PSJNb250c2VycmF0LCBzYW5zLXNlcmlmIiBmaWxsPSIjRkZGRkZGIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXdlaWdodD0iOTAwIiBsZXR0ZXItc3BhY2luZz0iMiIgZm9udC1zdHlsZT0ibm9ybWFsIiB0ZXh0LWRlY29yYXRpb249Im5vbmUiIGZpbGwtb3BhY2l0eT0iMSIgZm9udC12YXJpYW50PSJub3JtYWwiIHN0eWxlPSJ0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlOyI+Q09GRkVFPC90ZXh0PjwhLS0tLT48L3N2Zz4=)](https://forthebadge.com) -->
 </div>
