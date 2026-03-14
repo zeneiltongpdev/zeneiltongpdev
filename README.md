@@ -1,13 +1,13 @@
 <div align="center">
 
-  <div align="right" style="margin: -220px 25px 0 0; position: relative; z-index: 10;">
+<!--  <div align="right" style="margin: -220px 25px 0 0; position: relative; z-index: 10;">
     <a href="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/README.md">
       <img src="https://img.shields.io/badge/🇧🇷%20PT-darkviolet?style=for-the-badge&logo=github&logoColor=white" alt="Português"/>
     </a>
     <a href="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/README_en.md">
       <img src="https://img.shields.io/badge/🇺🇸%20EN-gray?style=for-the-badge&logo=github&logoColor=white" alt="English"/>
     </a>
-  </div>
+  </div> -->
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:4c1d8f,6b21a8,9c28d4&height=230&section=top&reversal=true&text=Zeneilton%20Granja&animation=twinkling&fontAlign=50&fontAlignY=30&textBg=false&fontSize=60&rotate=0&desc=☕%20FullCycle%20Java%20AI%20Engineer&descAlignY=50&reversal=false&descSize=20&fontColor=ffffff&descAlign=62" alt="Header - Zeneilton Granja | Backend Engineer"/>
   
