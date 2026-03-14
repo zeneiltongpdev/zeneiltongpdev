@@ -9,7 +9,7 @@
     </a>
   </div>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:4c1d8f,6b21a8,9c28d4&height=200&section=top&reversal=true&text=Zeneilton%20Granja&animation=twinkling&fontAlign=50&fontAlignY=30&textBg=false&fontSize=60&rotate=0&desc=☕%20FullCycle%20Java%20AI%20Engineer&descAlignY=45&reversal=false&descSize=20&fontColor=ffffff&descAlign=62" alt="Header - Zeneilton Granja | Backend Engineer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:4c1d8f,6b21a8,9c28d4&height=230&section=top&reversal=true&text=Zeneilton%20Granja&animation=twinkling&fontAlign=50&fontAlignY=30&textBg=false&fontSize=60&rotate=0&desc=☕%20FullCycle%20Java%20AI%20Engineer&descAlignY=50&reversal=false&descSize=20&fontColor=ffffff&descAlign=62" alt="Header - Zeneilton Granja | Backend Engineer"/>
   
   <br clear="both"/>
   <img align="right" height="220" style="border-radius: 20px; border: 4px solid #9c28d4; box-shadow: 0 8px 32px rgba(156,40,212,0.3);" src="https://avatars.githubusercontent.com/u/8356174?s=400&u=9c16b18bad3e0d5cc9a7e94982e7a3b4e22e807e&v=4" alt="Zeneilton Granja - Backend Engineer"/>
@@ -31,11 +31,10 @@
 </div>
 </div>
 
-<br clear="both"/>
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="Divider"/>
-</p>
+<div align="center">
+  <br clear="both"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="Divider"/>
+</div>
 
 <h2 align="center">🚀 Projetos em Destaque</h2>
 
@@ -74,10 +73,10 @@
   <img src="https://skillicons.dev/icons?i=spring,graphql,mysql,react,tailwind" width="200" title="Stack"/>
   <br/><br/>
   <a href="#">
-  <img src="https://img.shields.io/badge/🔗%20Planejado-lightgray?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+  <img src="https://img.shields.io/badge/🔗Em%20Planejamento-lightgray?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
   </a>
   <br/>
-  <img src="https://img.shields.io/badge/⛔%20Status-Em%20Planejamento-red?style=flat-square" alt="Status"/>
+  <img src="https://img.shields.io/badge/⛔%20Status-Parado-red?style=flat-square" alt="Status"/>
 </td>
 </tr>
 </table>
