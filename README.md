@@ -10,9 +10,8 @@
   </div> -->
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:4c1d8f,6b21a8,9c28d4&height=230&section=top&reversal=true&text=Zeneilton%20Granja&animation=twinkling&fontAlign=50&fontAlignY=30&textBg=false&fontSize=60&rotate=0&desc=☕%20FullCycle%20Java%20AI%20Engineer&descAlignY=50&reversal=false&descSize=20&fontColor=ffffff&descAlign=62" alt="Header - Zeneilton Granja | Backend Engineer"/>
-  
-  <br clear="both"/>
-  <img align="right" height="220" style="border-radius: 20px; border: 4px solid #9c28d4; box-shadow: 0 8px 32px rgba(156,40,212,0.3);" src="https://avatars.githubusercontent.com/u/8356174?s=400&u=9c16b18bad3e0d5cc9a7e94982e7a3b4e22e807e&v=4" alt="Zeneilton Granja - Backend Engineer"/>
+
+  <img align="right" height="200" src="https://github.com/zeneiltongpdev/zeneiltongpdev/blob/main/images/flags/ztech.png?raw=true" alt="Zeneilton Granja - Backend Engineer"/>
 
 <div align="left" style="max-width: 680px; margin-right: 240px;">
 
@@ -28,7 +27,6 @@
 | Microsserviços | PostgreSQL / Redis / Kafka | Automação de Infra |
 | Confiabilidade de Dados | Docker / Kubernetes / AWS | Mentoria Técnica |
 
-</div>
 </div>
 
 <div align="center">
